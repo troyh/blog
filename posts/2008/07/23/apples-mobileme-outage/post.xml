@@ -1,0 +1,51 @@
+<item>
+		<title>Apple's MobileMe outage</title>
+		<link>http://troyandgay.com/2008/07/23/apples-mobileme-outage/</link>
+		<pubDate>Wed, 23 Jul 2008 17:18:10 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/2008/07/23/apples-mobileme-outage/</guid>
+		<description/>
+		<content:encoded><![CDATA[Last Friday morning, my .Mac (now renamed "MobileMe") email went offline. Long story short, it's still out and Apple has no estimate on when it'll be fixed. Fortunately, most of my email is on my Gmail account, but lots of people use .Mac mail as their only email account. Why not? It costs $99/year, it should be more reliable than the free email services. But it's not.
+
+I know how hard it is to keep an online service up for a long time and how hard it is when things go awry and you're hurrying to fix it. But Apple has really fallen down on the customer service and PR. Apple has always had top-notch customer service, but this debacle is a lesson in how not to do customer service.
+
+<!--more-->
+
+Apple was dead silent on this problem until Tuesday, when the outage "hit the media":http://news.google.com/news?as_q=MobileMe&amp;svnum=10&amp;as_scoring=n&amp;hl=en&amp;ie=UTF-8&amp;ned=us&amp;btnG=Google+Search&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_drrb=q&amp;as_qdr=&amp;as_mind=21&amp;as_minm=6&amp;as_maxd=21&amp;as_maxm=7&amp;as_nsrc=&amp;as_nloc=&amp;geo=&amp;as_occt=any&amp;aq=f. Apple said nothing about it and customer service refused to acknowledge how serious the problem is. Apple was forced to say something after five days which resulted in an "important information" "post":http://support.apple.com/kb/TS1953. That post is a total of three sentences:
+
+bq. On Friday, July 18, 2008 (2008-07-18) we experienced a serious issue with one of our MobileMe mail servers. This issue is currently affecting approximately 1% of MobileMe members. Affected members are unable to send or receive email at www.me.com or access email using any email client software such as Mail on a Mac or Microsoft Outlook on a PC.
+
+In Apple's support forums for MobileMe that are filled with complaints, Apple's moderators delete negative posts about Apple. For example, a post titled "Does Apple backup MobileMe mail?" was deleted. That's a good question and one Apple should answer. But instead, they deleted it. Apple is (in)famously opaque, but this is downright anti-customer.
+
+Apple's explanation isn't even believable. One server went down and it takes them more than five days to replace it? That's unlikely. Apple manufactures the servers they use, so replacing a server would take minutes or hours. The lack of redundancy and failover is inexcusable, but being able to replace a server quickly is acceptable. The problem is far more severe than Apple is acknowledging and the deleted question about backups was on to something. If Apple did backup our mail, they'd be able to restore it from a backup, replace the dead server(s) and we'd all be up in hours. A five-day-and-counting outage cannot be explained by a simple failed server.
+
+Apple is either dishonest or their IT staff is incompetent (or both). Apple is still better than most, well, better than _all_ (let's face it, the computer industry is filled with companies that make lousy products) in the computer industry, in spite of this MobileMe fiasco, but even they need some improvement.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3406</wp:post_id>
+		<wp:post_date>2008-07-23 10:18:10</wp:post_date>
+		<wp:post_date_gmt>2008-07-23 17:18:10</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>apples-mobileme-outage</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>674</wp:comment_id>
+			<wp:comment_author><![CDATA[iPhone 3G S]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com/blog/2009/06/19/iphone-3g-s/</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-06-19 15:50:19</wp:comment_date>
+			<wp:comment_date_gmt>2009-06-19 22:50:19</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] Update: It seems that the problem is with Apple, not AT&amp;T since it&#8217;s happening worldwide, not just on AT&amp;T&#8217;s network in the US. I called AT&amp;T&#8217;s customer service and was told that &#8220;the order for my activation hasn&#8217;t even reached them yet&#8221;, implying that it&#8217;s stuck somewhere else, presumably at Apple. Apple makes great hardware and software, but boy do they suck at providing services. [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

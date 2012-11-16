@@ -1,0 +1,23 @@
+<item>
+		<title>All news articles in MT</title>
+		<link>http://troyandgay.com/2002/07/29/all-news-articles-in-mt/</link>
+		<pubDate>Tue, 30 Jul 2002 00:15:49 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=1507</guid>
+		<description/>
+		<content:encoded><![CDATA[I moved all our old news (that was in a database already) into Movable Type's database. So now we have diary data dating back to December 2000!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1507</wp:post_id>
+		<wp:post_date>2002-07-29 17:15:49</wp:post_date>
+		<wp:post_date_gmt>2002-07-30 00:15:49</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>all-news-articles-in-mt</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

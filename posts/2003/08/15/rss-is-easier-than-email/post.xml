@@ -1,0 +1,23 @@
+<item>
+		<title>RSS is Easier than Email</title>
+		<link>http://troyandgay.com/2003/08/15/rss-is-easier-than-email/</link>
+		<pubDate>Fri, 15 Aug 2003 16:46:22 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2300</guid>
+		<description/>
+		<content:encoded><![CDATA[Working on MyWireService, I've been surprised at the number of library &amp; school news sources are out there in RSS -- I really expected only tech sources and weblogs.  <a href="http://www.theshiftedlibrarian.com/2003/08/15.html#a44322">The Shifted Librarian encourages other libraries to put their information in RSS</a>, and I got to thinking: use a weblog and RSS is easier to support than an e-mail newsletter.  No membership database, no customers with forgotten passwords, not separate tool where some stuff is in the email newsletter but not available on the site, etc.  Unfortunately, RSS Aggregators are not as ubiquitous as email...yet.  We hope that <a href="http://mywireservice.com">our Web-based RSS Aggregator</a> will become more common just like web-based email is more convenient...]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2300</wp:post_id>
+		<wp:post_date>2003-08-15 09:46:22</wp:post_date>
+		<wp:post_date_gmt>2003-08-15 16:46:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>rss-is-easier-than-email</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

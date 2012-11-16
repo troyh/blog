@@ -1,0 +1,99 @@
+<item>
+		<title>Ganglia Dashboard Widget</title>
+		<link>http://troyandgay.com/2005/05/30/ganglia-dashboard-widget/</link>
+		<pubDate>Tue, 31 May 2005 01:55:13 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=3087</guid>
+		<description/>
+		<content:encoded><![CDATA[I spent my Memorial Day weekend building my first Tiger Dashboard widget. It's a monitor for <a href="http://ganglia.info">Ganglia</a>, which is what we use to monitor our server clusters. I wanted this ever since I heard about <a href="http://www.apple.com/macosx/features/dashboard/">Dashboard</a> and now I have it. No more refreshing a web page to see the quick status of all the servers.
+
+It should work with anyone's Ganglia setup, if you install <a href="http://troyandgay.com/public/ganglia.phps">the PHP script</a> that feeds it the XML data it needs and <a href="http://troyandgay.com/public/Ganglia.wdgt.zip">download the widget</a>. Put the PHP script somewhere on your server. You'll have to modify the code right now to set the URL to that PHP script. Later, I'll make it configurable from the widget itself (or you can). Consider it GPL'd, so please feel free to improve it but let me know so I can have the improvements too. :)
+
+TODO list:
+1. Make the flipside of the widget to set configurable options.
+2. Display a history graph like the Apple-supplied stocks widget.
+3. Make the clusters clickable to go to the standard Ganglia web page for the cluster
+4. Make it prettier.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3087</wp:post_id>
+		<wp:post_date>2005-05-30 17:55:13</wp:post_date>
+		<wp:post_date_gmt>2005-05-31 01:55:13</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>ganglia-dashboard-widget</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>450</wp:comment_id>
+			<wp:comment_author><![CDATA[Renuka]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>220.247.243.50</wp:comment_author_IP>
+			<wp:comment_date>2005-06-06 02:45:29</wp:comment_date>
+			<wp:comment_date_gmt>2005-06-06 10:45:29</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It would be cool to see a screen-shot of this widget. And isn't it neat you you don't have to hit F5 each time that helps too? Btw it might be a bug in IE that makes this comment window resize improperly and get obscured by the vertical archives banner on the right....containing the calendar at top.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>451</wp:comment_id>
+			<wp:comment_author><![CDATA[Yemi]]></wp:comment_author>
+			<wp:comment_author_email>yemi@stanford.edu</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>198.129.218.213</wp:comment_author_IP>
+			<wp:comment_date>2005-06-13 16:38:34</wp:comment_date>
+			<wp:comment_date_gmt>2005-06-14 00:38:34</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am trying to get this Dashboard widget working......the Ganglia.php file includes something like require_once("../fum.php");
+What is in fum.php????
+
+Ganglia.php is loaded by the Ganglia.js javascript. Instead, I dumped the XML output of my gmetad process to a file and loaded that instead. It looks like it is working (clusters are listed with some load info??) but then the grid title is shortly replaced with "Timer=9 (undefined)"
+
+Request some assistance please.
+
+----
+Yemi]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>452</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>troyhakala@comcast.net</wp:comment_author_email>
+			<wp:comment_author_url>http://recipezaar.com</wp:comment_author_url>
+			<wp:comment_author_IP>24.22.222.90</wp:comment_author_IP>
+			<wp:comment_date>2005-06-13 17:10:04</wp:comment_date>
+			<wp:comment_date_gmt>2005-06-14 01:10:04</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sorry, fum.php can be ignored it's just some miscellaneous stuff used for the my site, just delete that line.
+
+The "Timer=N (undefined)" really means that it couldn't do the HTTP request to get the XML data, i.e., the XMLHttpRequest didn't get a 200 back. If it's behind HTTP authentication, you'll need to modify the URL to include that info.
+
+The numbers are the average load on the servers in each cluster, and the other numbers are the min and max of the load. The "blank space" will eventually show a graph. :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>453</wp:comment_id>
+			<wp:comment_author><![CDATA[Jason Kredite]]></wp:comment_author>
+			<wp:comment_author_email>ikjuh@oih.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.lasik-surgery.eu.com</wp:comment_author_url>
+			<wp:comment_author_IP>84.189.255.133</wp:comment_author_IP>
+			<wp:comment_date>2005-06-23 07:39:15</wp:comment_date>
+			<wp:comment_date_gmt>2005-06-23 15:39:15</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Okay thanks for this tip, will do it shortly...wish you the best...]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

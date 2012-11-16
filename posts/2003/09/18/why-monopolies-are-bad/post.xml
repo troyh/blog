@@ -1,0 +1,25 @@
+<item>
+		<title>Why Monopolies are Bad</title>
+		<link>http://troyandgay.com/2003/09/18/why-monopolies-are-bad/</link>
+		<pubDate>Thu, 18 Sep 2003 23:11:28 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2365</guid>
+		<description/>
+		<content:encoded><![CDATA[<a href="http://www.petitiononline.com/icanndns/">Sign this petition for the all the reasons</a>, but the gist is that VeriSign (which runs all the .com and .net domain listings by virtue of purchasing Network Solutions) is putting up an advertisement page if you try to hit any unregistered .com domain, rather than just letting your web browser serve you an error.  This is bad.  They are profiting from an international body (remember they are only a government authorized monopoly for *selling domains* not putting up ads in any unused space -- it is as if the phone company was allowed to make you listen to an ad every time you dialed a wrong number.  The good news is that the internet is already routing around the problem: the company that makes domain resolving software which runs on 80% of the servers that resolve domain names into machine-readable addresses is issuing a patch that will prevent this type of squatting....
+
+The internet is a beautiful place, but lets not forget that there are infrastructure providers that could quickly make it a very controlled environment if we don't work to protect it.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2365</wp:post_id>
+		<wp:post_date>2003-09-18 16:11:28</wp:post_date>
+		<wp:post_date_gmt>2003-09-18 23:11:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>why-monopolies-are-bad</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

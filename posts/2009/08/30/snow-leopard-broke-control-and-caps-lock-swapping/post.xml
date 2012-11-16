@@ -1,0 +1,282 @@
+<item>
+		<title>Snow Leopard broke Control and Caps Lock swapping</title>
+		<link>http://troyandgay.com/2009/08/30/snow-leopard-broke-control-and-caps-lock-swapping/</link>
+		<pubDate>Sun, 30 Aug 2009 22:02:56 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/?p=3732</guid>
+		<description/>
+		<content:encoded><![CDATA[<strong>9/1/2009 Update:</strong> The problem turned out to be related to the wireless USB hub fo<a href="http://www.logitech.com/index.cfm/mice_pointers/mice/devices/130&amp;cl=US,EN">r Logitech's MX Revolution</a> (and others?) mouse. If you unplug it before you change the Modifier Keys the changes do take effect. You can then plug the Logitech USB dongle back in and everything works fine. I tried every combination of plugging my keyboard into my computer but the Logitech dongle was plugged into the back of my display so I didn't think to try it. <a href="http://mtrichardson.com/">Michael Richardson</a> figured it out.
+
+I installed Snow Leopard this morning and discovered that they broke the most important feature of any OS: swapping Caps Lock and Control. The Control key isn't used much by most users, but developers use it all the time. In fact, it's safe to say that no developer worth his/her salt doesn't swap their Control and Caps Lock keys and I haven't had an OS in decades that didn't do this... until now. Actually, Mac OS X didn't do this officially until 10.4, but you could edit a .plist file to swap the keys, which was good enough. In 10.4 they conveniently put the feature in System Preferences and officially supported it. Until Snow Leopard broke it. Not even <a href="http://www.macosxhints.com/article.php?story=20020222094159459">the manual way to change it</a> works anymore.
+
+To be clear, this setting in the System Preferences Keyboard pane has no effect whatsoever, not just for Caps Lock but for any of the keys:
+
+<a href="http://troyandgay.files.wordpress.com/2009/08/screen-shot-2009-08-30-at-25523-pm.png"><img class="centered" title="screen-shot-2009-08-30-at-25523-pm" src="http://troyandgay.files.wordpress.com/2009/08/screen-shot-2009-08-30-at-25523-pm.png" alt="" width="408" height="287" /></a>
+
+It's bad that the retarded <em>[Update after finding out the true cause of the problem: My apologies to the Apple developer for calling them "retarded", I should be calling the Logitech developer "retarded" because they obviously did something non-standard with their driver for the USB dongle]</em> developer that broke this didn't even bother to test their change themselves. It's inexcusable that the entire time this was broken during the development of Snow Leopard (12 months?) <em>nobody at Apple noticed it</em>, not even their developers.
+
+This is like an auto mechanic never noticing that his wrench is broken. Or a bartender never noticing that his corkscrew doesn't work.
+
+<!--more-->
+
+That no developer noticed this means that either the developers at Apple don't use the Control key or they don't mind bending their pinky back to reach the normal Control key the 3,000 times a day that every programmer's editor requires that you use the Control key. It's not possible that they don't use the Control key because even the crappy editor in XCode, Apple's development IDE, makes heavy use of the Control key. In my 20+ years of software development I have never known an editor that doesn't use the Control key more than any other key. Even vi, the (great) editor whose design goes to great lengths to avoid using anything other than alphanumeric keys, uses the Control key heavily.
+
+So the only logical conclusion is that Apple's developers use the Control key in that god-awful location in the lower-left of the keyboard. That's good, because it means that Apple will one day get sued by all their employees for the injuries that keystroke causes.
+
+How long until 10.6.1 comes out? 3 months? 4 months? And will it even be fixed in that??! Apple is notoriously slow at fixing bugs or even acknowledging them, especially ones like this they obviously think is minor, that they make Microsoft look downright responsive to bug-fixes. Sometimes I really really hate Apple.
+
+Postscript: When are we going to finally get rid of the stupid Caps Lock key anyway?!? Who has used that key in the last 40 years? What kind of typist types <em>anything</em> in all caps or can't be bothered to hold the Shift key down? All Caps were useful back in the 1940s when people didn't have <strong>bold</strong>, <em>italics</em> or underlines on their typewriters. Why are we still making keyboards with this worthless and dangerous key?]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3732</wp:post_id>
+		<wp:post_date>2009-08-30 15:02:56</wp:post_date>
+		<wp:post_date_gmt>2009-08-30 22:02:56</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>snow-leopard-broke-control-and-caps-lock-swapping</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>1097</wp:comment_id>
+			<wp:comment_author><![CDATA[Michael Richardson]]></wp:comment_author>
+			<wp:comment_author_email>michael@mtrichardson.com</wp:comment_author_email>
+			<wp:comment_author_url>http://mtrichardson.com/</wp:comment_author_url>
+			<wp:comment_author_IP>65.197.140.131</wp:comment_author_IP>
+			<wp:comment_date>2009-08-31 11:58:40</wp:comment_date>
+			<wp:comment_date_gmt>2009-08-31 18:58:40</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I found a way to get this working on Snow Leopard - see http://discussions.apple.com/thread.jspa?messageID=10091638#10091638 .]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1098</wp:comment_id>
+			<wp:comment_author><![CDATA[Cuyler]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://cuyler.wordpress.com</wp:comment_author_url>
+			<wp:comment_author_IP>99.16.241.117</wp:comment_author_IP>
+			<wp:comment_date>2009-08-31 23:24:49</wp:comment_date>
+			<wp:comment_date_gmt>2009-09-01 06:24:49</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[After I installed Snow Leopard, the Caps Lock started locking caps again.  I agree with you — the Caps Lock key has been outdated for decades.  It's has always bugged me because I hit it by accident.  WHO TYPES IN ALL CAPS ANYWAY!?!
+
+But I was able to fix it using system preferences setting the modifier keys like you show.  I am using a 2009 MacBook Pro and my keyboard is listed as "Apple Internal Keyboard / Trackpad".  Maybe it's a driver issue.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1099</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-09-01 07:55:33</wp:comment_date>
+			<wp:comment_date_gmt>2009-09-01 14:55:33</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It works fine for me with the Apple Internal Keyboard/Trackpad" but not with my external Apple USB keyboard. But I just found out about the fix from someone on Apple's support forums: http://discussions.apple.com/thread.jspa?messageID=10099140#10099140
+
+It seems it was a problem with the Logitech MX Revolution mouse. I just had to unplug the USB dongle for it and then set my Modifier Keys. I am happy again!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1100</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-09-01 08:26:36</wp:comment_date>
+			<wp:comment_date_gmt>2009-09-01 15:26:36</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Michael Richardson's comment was not automatically approved so I didn't see his comment until now, I just happened to check Apple's support forums again. Crikey, I could have had this fixed yesterday! Thank you, thank you, thank you Michael!!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1101</wp:comment_id>
+			<wp:comment_author><![CDATA[My Snow Leopard Review]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com/blog/2009/09/01/my-snow-leopard-review/</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-09-01 10:39:24</wp:comment_date>
+			<wp:comment_date_gmt>2009-09-01 17:39:24</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] that my huge problem is solved, I can say what I really think of Snow Leopard: it&#8217;s definitely worth [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1102</wp:comment_id>
+			<wp:comment_author><![CDATA[n3wblog - Modifier Keys broken in OS X 10.6 Snow Leopard]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://n3wb.com/boolean/archives/2009/09/modifier-keys-broken-in-os-x-10-6-snow-leopard/</wp:comment_author_url>
+			<wp:comment_author_IP>67.196.136.168</wp:comment_author_IP>
+			<wp:comment_date>2009-09-28 08:57:45</wp:comment_date>
+			<wp:comment_date_gmt>2009-09-28 15:57:45</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] search found this blog entry: The problem turned out to be related to the wireless USB hub for Logitech’s MX Revolution (and [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1103</wp:comment_id>
+			<wp:comment_author><![CDATA[Rick Deckard]]></wp:comment_author>
+			<wp:comment_author_email>rickdeckard@me.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>69.180.174.159</wp:comment_author_IP>
+			<wp:comment_date>2009-12-22 18:32:06</wp:comment_date>
+			<wp:comment_date_gmt>2009-12-23 01:32:06</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Congratulations on your sophomoric use of the word "retarded."  It's interesting that you are quick to speak of developers being worth their salt based on their control key preferences (I actually don't switch mine and sleep well at night) when you couldn't execute basic troubleshooting tasks.
+
+Here's a hint:
+
+1) Disconnect all peripherals
+2) Create a new user
+3) Log in as new user
+4) Test problem
+
+Follow those basic 100-level steps and you would have been well down the path to fixing the problem yourself.
+
+PEBCAK]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1104</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-12-22 18:42:23</wp:comment_date>
+			<wp:comment_date_gmt>2009-12-23 01:42:23</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@Rick Deckard: You are obviously retarded because my use of "retarded" is valid. Here's a hint: it doesn't only mean mentally-retarded.
+
+I did remove all peripherals, except for the Logitech dongle because it was hidden to me and I had forgotten about it. IOW, it's a mistake. Some of us make them, you may make one too yourself someday. Oh wait, you already did.
+
+Sorry if you're offended that I think you're a lousy developer based on your position of the Control key. More proof that you're retarded is that you couldn't detect the hyperbole.
+
+BTW, you're a dork, and retarded, for using the Blade Runner character's name.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1105</wp:comment_id>
+			<wp:comment_author><![CDATA[rox0r]]></wp:comment_author>
+			<wp:comment_author_email>asdf@adsf.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.61.13.173</wp:comment_author_IP>
+			<wp:comment_date>2009-12-31 08:19:45</wp:comment_date>
+			<wp:comment_date_gmt>2009-12-31 15:19:45</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA["Follow those basic 100-level steps and you would have been well down the path to fixing the problem yourself. "
+
+Spoken like a true MS help desk tech. Why exactly should people need to create a new user b/c snow leopard broke things?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1106</wp:comment_id>
+			<wp:comment_author><![CDATA[Mike]]></wp:comment_author>
+			<wp:comment_author_email>mike@pixor.net</wp:comment_author_email>
+			<wp:comment_author_url>http://pixor.net/</wp:comment_author_url>
+			<wp:comment_author_IP>216.174.107.98</wp:comment_author_IP>
+			<wp:comment_date>2010-02-24 11:48:15</wp:comment_date>
+			<wp:comment_date_gmt>2010-02-24 18:48:15</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thank you. I had the same problem - the culprit was a Logitech MX516 mouse.  After unplugging the mouse, restoring default keyboard settings, then going back and swapping my buttons, everything works.  I ended up having to swap BOTH (or at least, the second) keyboard profile under "Modifier Keys" before it worked.
+
+@Troy Sorry to pick nits, I believe most vi users would prefer to switch their caps lock key to Escape, rather than Control.  (I also happen to be a developer who does not remap the control key.)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1107</wp:comment_id>
+			<wp:comment_author><![CDATA[Sakari Lehtonen]]></wp:comment_author>
+			<wp:comment_author_email>lgo900@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://lgo900.wordpress.com</wp:comment_author_url>
+			<wp:comment_author_IP>89.27.71.8</wp:comment_author_IP>
+			<wp:comment_date>2010-04-02 06:45:19</wp:comment_date>
+			<wp:comment_date_gmt>2010-04-02 13:45:19</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thank you for this information, I was going crazy with Vim when my CTRL stopped working and turned into Caps Lock. The culprit was my Logitech Trackball. Just unplugged it, set the preferences and then plug the trackball back again. Works now :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1278</wp:comment_id>
+			<wp:comment_author><![CDATA[Roger Gonzalez]]></wp:comment_author>
+			<wp:comment_author_email>roger.gonzalez@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>204.15.3.196</wp:comment_author_IP>
+			<wp:comment_date>2010-12-02 08:41:24</wp:comment_date>
+			<wp:comment_date_gmt>2010-12-02 16:41:24</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[A late reply, but I'm having a similar problem where although the "extra control key" solution works for me, as soon as I unplug my Microsoft ergo keyboard (well, technically I'm unplugging the Apple monitor that's acting as a USB hub for my M$ kb/mouse) and plug it back in again, I lose the setting.
+
+In this case, I'm inclined to blame the Microsoft drivers, which have a separate preferences pane - unfortunately, they only have a "swap ctrl and caps lock" option, which (since my fingers are now totally confused) I hate, since I accidentally hit the "real" ctrl key nearly as often as the remapped version.  I've tried setting it in both pref panels, to no avail, it always resets itself when I plug back in.  My theory is that the Microsoft prefs notice that I haven't set it to swap, and "helpfully" force it to the unmapped setting.
+
+Since I undock to go to meetings all day, its pretty irritating.  Anyone tripped across this (given how old this blog post is, I feel like I'm writing a note in a bottle for future search engine users...)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1291308084.3034";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1291308517]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1441</wp:comment_id>
+			<wp:comment_author><![CDATA[kbern]]></wp:comment_author>
+			<wp:comment_author_email>ridetuliv@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>17.228.35.70</wp:comment_author_IP>
+			<wp:comment_date>2011-03-23 17:05:16</wp:comment_date>
+			<wp:comment_date_gmt>2011-03-24 01:05:16</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[This solution worked for me (after trying lots of others)...
+simply unplugged the logitech mouse and the MS natural keyboard dongle.
+Then I plugged the keyboard dongle back in, and modified the setting in Settings
+Everything now works
+(not sure what caused this to happen in the first place, but at least it's working now)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1300928717]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1300928717.8968";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>

@@ -1,0 +1,25 @@
+<item>
+		<title>My first iPhone app</title>
+		<link>http://troyandgay.com/2009/02/23/my-first-iphone-app/</link>
+		<pubDate>Mon, 23 Feb 2009 22:33:25 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/2009/02/24/my-first-iphone-app/</guid>
+		<description/>
+		<content:encoded><![CDATA[I finally got around to trying to build an iPhone app. I had to learn Objective-C so I spent Sunday reading _Programming in Objective-C 2.0_ (for "free" on "Safari Books Online":http://my.safaribooksonline.com/, that service pays for itself many times over!) and today I launched XCode and had the beginnings of the app done. Apple could make it easier to learn and XCode could stand a lot of improvement, but two days to get something basic accomplished in a new language and on a new platform is not terrible.
+
+Once you get over the hurdle of understanding the concepts and idioms of the iPhone SDK (probably a lot easier if you're a Mac developer, which I'm not) it starts to go quicker. The SDK docs are pretty good and have good examples. Objective-C is a much simpler language than C++, which is a good thing, but it also does a lot of things differently for no good reason that I can see.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3607</wp:post_id>
+		<wp:post_date>2009-02-23 15:33:25</wp:post_date>
+		<wp:post_date_gmt>2009-02-23 22:33:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>my-first-iphone-app</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

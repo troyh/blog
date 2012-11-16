@@ -1,0 +1,29 @@
+<item>
+		<title/>
+		<link>http://troyandgay.com/2003/11/07/2466/</link>
+		<pubDate>Fri, 07 Nov 2003 17:30:45 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2466</guid>
+		<description/>
+		<content:encoded><![CDATA[It's been a busy week... yesterday we went into Seattle to put a server back after replacing the CPU fan that died on it. It's nice to have so much redundancy and be able to just slipstream a new server in to distribute the load or to take one out to upgrade it without affecting anything. Just a couple years ago, the entire site was run on one machine. Now it runs on nine servers (3 web servers, 2 database servers, 2 load-balancers and one backup load balancer and one NFS server)!
+
+Before coming home, we had an Indian buffet at <a href="http://www.alkibeach.com/eatsdetail.asp?eatsID=38">a West Seattle restaurant</a>. Yum! We've eaten there several times but yesterday was especially good.
+
+We finally saw <a href="http://www.italianjobmovie.com/flash/index.html">The Italian Job</a> last night. I loved it! There was some dumb computer cracker stuff in it (the skill of a computer cracker is not that they can think up people's passwords and retry them til they get in), as usual these days, but it didn't annoy me that much this time. It was a very entertaining movie, and I love the <a href="http://www.mini.com/">Mini</a>s! We also saw <a href="http://www.imdb.com/title/tt0243133/">The Man Who Wasn't There</a> this week. Not worth the time.
+
+The house is <i>still</i> being painted but it's very close to being done. It's just trim and touch-ups now. And it's been a very cold week, in the 30s which is bitter cold for Seattle. I've avoided getting sick at least (can't say that for Gay, though). I feel sorry for the painter who has to be outside all day long. But Ouzo just loves hanging out with him all day.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2466</wp:post_id>
+		<wp:post_date>2003-11-07 10:30:45</wp:post_date>
+		<wp:post_date_gmt>2003-11-07 17:30:45</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>2466</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

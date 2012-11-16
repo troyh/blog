@@ -1,0 +1,96 @@
+<item>
+		<title>Supermicro P8SCI boot problem</title>
+		<link>http://troyandgay.com/2005/02/16/supermicro-p8sci-boot-problem/</link>
+		<pubDate>Wed, 16 Feb 2005 17:33:42 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2995</guid>
+		<description/>
+		<content:encoded><![CDATA[I'm posting this to help people who have the same problem I did and search for a solution can find it by searching for "Supermicro P8SCI boot problem" instead of wasting days like I did with no info....
+
+We got two new identical servers last week that have the new <a href="http://www.supermicro.com/products/motherboard/P4/E7221/P8SCi.cfm">Supermicro P8SCI</a> motherboard in them. After installing linux on them, they wouldn't reboot reliably. Roughly 70% of the boots failed -- the machine just crashed right after the GRUB loading stage. This was the same on both machines, which made me believe it was a software problem rather than a hardware problem -- hardware can be flakey, but two machines failing the same way is unlikely.
+
+After a weekend of trial-and-error trying to figure out if the problem was GRUB or the linux kernel or a hardware problem and doing a lot of internet research, we took it to the vendor on Monday, <a href="http://siliconmechanics.com">Silicon Mechanics</a> (who is great!), and after a few hours they discovered that the BIOS console redirection was causing it. Supermicro hadn't heard about the bug yet -- it's a new motherboard for them and I'm probably one of the few people who use the BIOS' console redirection. We turned off console redirection and they boot fine.
+
+On the bright side, we had them install <a href="http://www.intel.com/design/servers/ipmi/">IPMI</a> cards in the machines. I've never used IPMI, but is supposed to be a better replacement for console redirection (among other things). So maybe some good did come out of all this wasted time.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2995</wp:post_id>
+		<wp:post_date>2005-02-16 09:33:42</wp:post_date>
+		<wp:post_date_gmt>2005-02-16 17:33:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>supermicro-p8sci-boot-problem</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>390</wp:comment_id>
+			<wp:comment_author><![CDATA[Ben]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>68.42.141.28</wp:comment_author_IP>
+			<wp:comment_date>2005-04-28 19:13:26</wp:comment_date>
+			<wp:comment_date_gmt>2005-04-29 03:13:26</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thank you so much for posting this solution.  I've been beating my head against the wall trying to figure out why our server was behaving this way.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>391</wp:comment_id>
+			<wp:comment_author><![CDATA[Ted]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>207.191.223.15</wp:comment_author_IP>
+			<wp:comment_date>2005-05-05 11:43:51</wp:comment_date>
+			<wp:comment_date_gmt>2005-05-05 19:43:51</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[This was the fix for our locking up P8SCT motherboard with GRUB lockup problem too. Wish someone else would have published this earlier so I didn't have to drive to and from the hosting city twice this week to fix it.
+
+Thanks for posting this!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>392</wp:comment_id>
+			<wp:comment_author><![CDATA[David]]></wp:comment_author>
+			<wp:comment_author_email>davidu@everydns.net</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>64.81.72.208</wp:comment_author_IP>
+			<wp:comment_date>2005-05-21 15:39:20</wp:comment_date>
+			<wp:comment_date_gmt>2005-05-21 23:39:20</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hey Ted (or Troy)
+
+Any idea if you have DMA working on the P8SCT (from a 5014C-MF)?  I can't get DMA working on any SATA drive I try...  Linux kernel 2.4.27 or 2.6.8 both fail to give me Ultra DMA and thus they give me slow-dog performance (as in, can't even consider it for production).
+
+Thanks,
+David]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>393</wp:comment_id>
+			<wp:comment_author><![CDATA[Stefano]]></wp:comment_author>
+			<wp:comment_author_email>stefano.bridi@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>213.82.68.158</wp:comment_author_IP>
+			<wp:comment_date>2005-07-28 08:10:24</wp:comment_date>
+			<wp:comment_date_gmt>2005-07-28 16:10:24</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I have a very similar problem on my machine but the console redirection was innocent.
+I resolved upgrading the bios.
+
+Thanks,
+stef]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

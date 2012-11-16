@@ -1,0 +1,35 @@
+<item>
+		<title>Swapping Caps Lock &amp; Control on MacOS X</title>
+		<link>http://troyandgay.com/2002/09/23/swapping-caps-lock-control-on-macos-x/</link>
+		<pubDate>Mon, 23 Sep 2002 19:18:12 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=1638</guid>
+		<description/>
+		<content:encoded><![CDATA[Just so I can find this again when I need it later, here's how you make USB keyboards swap Caps Lock &amp; Control under MacOS X:
+
+1. Edit /System/Library/Extensions/IOUSBFamily.kext/ Contents/PlugIns/AppleUSBKeyboard.kext/Contents/Info.plist and add:
+
+&lt;key&gt;Swap control and capslock&lt;/key&gt;
+&lt;integer&gt;1&lt;/integer&gt;
+
+
+under IOKitPersonalities/AppleUSBKeyboard. Here is a properly edited Info.plist for the first release of 10.1, but be aware that other parts of the file may be incorrect for future versions of the driver. You can, of course, use the PropertyListEditor application that comes with the developer tools to add the property.
+
+2. Remove the file /System/Library/Extensions.mkext. This is a device driver cache. The modified AppleUSBKeyboard driver will not be loaded if this exists. The next reboot will rebuild this file with the modified AppleUSBKeyboard driver. (And the reboot will take a bit longer than normal as it builds the file.)
+
+3. Reboot.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1638</wp:post_id>
+		<wp:post_date>2002-09-23 12:18:12</wp:post_date>
+		<wp:post_date_gmt>2002-09-23 19:18:12</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>swapping-caps-lock-control-on-macos-x</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

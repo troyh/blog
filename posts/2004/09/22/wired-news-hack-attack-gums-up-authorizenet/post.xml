@@ -1,0 +1,23 @@
+<item>
+		<title>Wired News: Hack Attack Gums Up Authorize.Net</title>
+		<link>http://troyandgay.com/2004/09/22/wired-news-hack-attack-gums-up-authorizenet/</link>
+		<pubDate>Wed, 22 Sep 2004 16:54:58 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2814</guid>
+		<description/>
+		<content:encoded><![CDATA[<a href="http://www.wired.com/news/infostructure/0,1377,65039,00.html">Wired News: Hack Attack Gums Up Authorize.Net</a>. It finally made the mainstream news... I was beginning to wonder if Authorize.Net was telling the whole truth. We use Authorize.Net to charge credit cards, so this affects us. I don't understand why they can't simply provide a different IP address instead of using DNS until this problem goes away.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2814</wp:post_id>
+		<wp:post_date>2004-09-22 09:54:58</wp:post_date>
+		<wp:post_date_gmt>2004-09-22 16:54:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>wired-news-hack-attack-gums-up-authorizenet</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

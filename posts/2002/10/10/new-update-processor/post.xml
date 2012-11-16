@@ -1,0 +1,25 @@
+<item>
+		<title>New Update processor</title>
+		<link>http://troyandgay.com/2002/10/10/new-update-processor/</link>
+		<pubDate>Thu, 10 Oct 2002 17:15:06 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=1689</guid>
+		<description/>
+		<content:encoded><![CDATA[Today (last night) is the first run of the new update processor. I'm just updating cached pages now and it seems to be working well. The biggest change is the more thorough dependency list that improves its accuracy. But another significant improvement is that it doesn't simply delete the cached pages and wait for a real user to make another request, it immediately requests every page again so that the cached pages are always there.
+
+The downside is that it took 10 (<b>update: make that 14</b>) hours to do the browse cache processing. But that's basically a change to all 200,000+ cached browse pages. In the future, the daily changes should be smaller. The recipe cache updating took about 1.5 hours (almost 40,000 pages).]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1689</wp:post_id>
+		<wp:post_date>2002-10-10 10:15:06</wp:post_date>
+		<wp:post_date_gmt>2002-10-10 17:15:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>new-update-processor</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

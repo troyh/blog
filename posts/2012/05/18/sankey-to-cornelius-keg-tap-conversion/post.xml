@@ -1,0 +1,127 @@
+<item>
+		<title>Sankey to Cornelius keg tap conversion</title>
+		<link>http://troyandgay.com/2012/05/18/sankey-to-cornelius-keg-tap-conversion/</link>
+		<pubDate>Fri, 18 May 2012 19:59:00 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=6225</guid>
+		<description/>
+		<content:encoded><![CDATA[Our new <a href="http://www.bringperlickhome.com/products/48-refrigerator-beer-dispenser">Perlick kegerator</a> can hold two small (7.75 gallon, 1/4 bbl, pony keg, half-keg, whatever you want to call them) kegs, one big (15.5 gallon, 1/2 bbl, full keg) and one small keg, four Cornelius kegs or some combinations of those. Local breweries usually sell their beer in the small kegs but they don't always have them on-hand since they're not as popular as big kegs. But many will fill Cornelius kegs that home brewers use. So I can take my kegs to them and have them fill them up with any of their beers and not have to wait until they get a small keg back from a customer. I can also fit 2 Cornelius kegs on each side for 10 gallons on each side rather than one 7.75-gallon keg, so I can have a cold spare keg ready when one runs out.
+
+<a title="IMG_2317 by troyh, on Flickr" href="http://www.flickr.com/photos/troyh/7223166934/"><img src="http://farm6.staticflickr.com/5346/7223166934_a823ac86be.jpg" alt="IMG_2317" width="500" height="375" /></a>
+
+<img title="More..." src="http://troyandgay.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" alt="" />
+
+<!--more-->But the kegerator has the standard Sankey keg tap and <a href="http://en.wikipedia.org/wiki/Cornelius_keg">Cornelius kegs</a> ("Corny kegs") have ball-lock taps. I want to be able to use either keg without having to unassemble and then reassemble the tubing. Not only would it take too much time, I'd have to make sure that there aren't any leaks each time I assemble it. You'd think there would be some quick-connect device that would make this possible, but there isn't. You have to make it yourself.
+
+I started off thinking I'd make two sets of taps with couplers so I could swap the taps in and out with just a wrench. It wouldn't be quick-change, but it'd be faster and easier than undoing and redoing a bunch of clamps and barbed ends. While looking for parts, I found the brilliant setup shown in <a href="http://forum.northernbrewer.com/viewtopic.php?f=3&amp;t=72024&amp;start=0#p717984">Toby's post</a> in Northern Brewer's forums. It converts a Sankey tap to a tap that has ball-lock connectors on each side, effectively turning regular kegs into Cornelius kegs. Then I replaced the barbed clamp fitting with ball-lock connectors on the CO2 and beer lines.
+
+The entire system has permanent connections so once it's leak-free, it's leak-free for good. The only parts that become disconnected and re-connected are the ball-lock connectors. But because ball-lock connectors are made to be quickly connected and unconnected, I can take them off and on without any tools and without worrying that I have a leak or finding my CO2 tank unexpectedly empty.
+
+<strong>Parts Detail:</strong>
+<div><strong>
+</strong>Here's a deconstructed view of all the parts to see how they get connected:</div>
+<a title="IMG_2203 by troyh, on Flickr" href="http://www.flickr.com/photos/troyh/7223161430/"><img src="http://farm8.staticflickr.com/7102/7223161430_59022f7ba1.jpg" alt="IMG_2203" width="500" height="375" /></a>
+
+Here it is assembled:
+
+<a title="IMG_2204 by troyh, on Flickr" href="http://www.flickr.com/photos/troyh/7223163234/"><img src="http://farm8.staticflickr.com/7103/7223163234_a12ba603b3.jpg" alt="IMG_2204" width="500" height="375" /></a>
+
+Most things can be bought from Northern Brewer, but a couple things were bought from McMaster-Carr:
+<ul>
+	<li>2 x <a href="http://www.mcmaster.com/#50715K161">50715K161</a> Type 316 Stainless Steel 37 Degree Flared Tube Fitting, Adapter for 1/4" Tube OD X 1/8" NPT Male Pipe</li>
+	<li>2 x <a href="http://www.mcmaster.com/#catalog/118/182/=hlar1w">50675K161</a> Brass 37 Degree Flared Tube Fitting, Adapter for 1/4" Tube OD X 1/8" NPT Male Pipe</li>
+</ul>
+Northern Brewer Items:
+<ul>
+	<li>4 x Adapter for Cornelius Keg Posts 1/4" FFL x 19/32"-18 <a href="http://www.northernbrewer.com/shop/adapter-for-corny-plugs-1-4-ffl-x-19-32-18.html">K168</a></li>
+	<li>2 x Keg Post Assembly Gas Type B <a href="http://www.northernbrewer.com/shop/plug-assembly-gas-type-b-all-cornelius-ball-lock.html">K107</a></li>
+	<li>2 x Keg Post Assembly Liquid Type B <a href="http://www.northernbrewer.com/shop/plug-assembly-liq-type-b-all-cornelius-ball-lock.html">K108</a></li>
+	<li>2 x Ball Lock Disconnect- 1/4"MFL Liquid <a href="http://www.northernbrewer.com/shop/ball-disc-1-4-mfl-liq.html">K011</a></li>
+	<li>2 x Ball Lock Disconnect- 1/4" MFL Gas <a href="http://www.northernbrewer.com/shop/ball-disc-1-4-mfl-gas.html">K010</a></li>
+	<li>4 x Flared Nylon Washer <a href="http://www.northernbrewer.com/shop/flared-nylon-washer.html">K127</a></li>
+	<li>2 x 1/4" Barbed Swivel Nut <a href="http://www.northernbrewer.com/shop/1-4-barbed-swivel-nut.html">K123</a></li>
+	<li>2 x 5/16" Barbed Swivel Nut <a href="http://www.northernbrewer.com/shop/5-16-barbed-swivel-nut.html">K163</a></li>
+</ul>
+Note that the Perlick kegerator comes with a 1/4" beer line and a 5/16" gas line, so it needs 2 of each rather than 4 of one size. Not listed is Teflon tape that I used on each fitting.
+<div></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6225</wp:post_id>
+		<wp:post_date>2012-05-18 11:59:00</wp:post_date>
+		<wp:post_date_gmt>2012-05-18 19:59:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sankey-to-cornelius-keg-tap-conversion</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="our-life"><![CDATA[Our Life]]></category>
+		<wp:postmeta>
+			<wp:meta_key>email_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1337371141]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>jabber_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1337371140]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[47796]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1798</wp:comment_id>
+			<wp:comment_author><![CDATA[Gavin]]></wp:comment_author>
+			<wp:comment_author_email>gavintoth@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>75.181.15.165</wp:comment_author_IP>
+			<wp:comment_date>2012-07-12 08:28:14</wp:comment_date>
+			<wp:comment_date_gmt>2012-07-12 16:28:14</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I've been looking for a way to convert my corny system to being able to use a Sankey coupler and this is great! Question though, will this set up fit in the smaller space of a 1/6 Barrel? If not, how would I go about setting up another solution? I wouldn't mind having to unscrew my ball locks each time. Thanks in advance.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1342110495]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:14:"1342110495.177";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1799</wp:comment_id>
+			<wp:comment_author><![CDATA[troyh]]></wp:comment_author>
+			<wp:comment_author_email>troy.hakala@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyh.wordpress.com/</wp:comment_author_url>
+			<wp:comment_author_IP/>
+			<wp:comment_date>2012-07-14 11:08:10</wp:comment_date>
+			<wp:comment_date_gmt>2012-07-14 19:08:10</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I haven't tried a 1/6 bbl but I have the low-profile sankey which is wider (but shorter). You should be able to modify a standard Sankey coupler similarly.  
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>1798</wp:comment_parent>
+			<wp:comment_user_id>47796</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1342292890]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1342292890.5585";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:5:"troyh";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>

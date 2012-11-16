@@ -1,0 +1,167 @@
+<item>
+		<title>Low-voltage wiring</title>
+		<link>http://troyandgay.com/2010/11/10/low-voltage-wiring/</link>
+		<pubDate>Thu, 11 Nov 2010 01:25:40 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/?p=4575</guid>
+		<description/>
+		<content:encoded><![CDATA[After dealing with bids from electricians to do the low-voltage work in the house, I've decided I'm going to do it myself. I had to buy all the Cat6 and speaker wire and it arrived today:
+
+<a title="Low-voltage cables by troyh, on Flickr" href="http://www.flickr.com/photos/troyh/5164976199/"><img class="centered" src="http://farm5.static.flickr.com/4092/5164976199_9ae0d58395.jpg" alt="Low-voltage cables" width="500" height="375" /></a>
+
+<!--more-->
+
+Low-voltage wiring is a scam in the construction industry. It's easy to do, it's not even dangerous like line-voltage electrical work, and the materials are very inexpensive. Yet it costs more to wire a house with low-voltage wiring than it does to wire a house with electricity. They can do this because people think of it as "high-tech" so it must be more complicated and must cost more. So it does.
+
+I won't name the two companies that bid on the work that we aren't hiring, but I didn't like them. The bids just for running cable ranged from the reasonable $7,000 to the unreasonable $18,000, with another at $14,000. The low bid was from a traditional electrician (who we are hiring to do the line voltage work). The others were from companies that do home theater systems.
+
+The company with the highest bid started with a reasonable bid. As we talked to them, they realized that we weren't going to buy those stupid whole-house audio systems they try to sell and we were going to run the entire system off commodity parts. I provided them with a schematic for the wiring that we wanted and, over a few weeks, I simplified it twice. The sub-contractor updated their bid three times. Each time, with a simpler design, the cost went up. They were determined to make their money one way or another. And they never stopped trying to sell us their proprietary system. The last straw was when they proposed a more expensive system that gave us one (!) audio zone throughout the house. The way they proposed it, if we wanted music in our master bedroom, the speakers outside would also be on for the neighbors to hear; if the kids wanted to listen to their music in the basement, we had to listen to it too in the dining room. They couldn't see why we wouldn't want that. Idiots. And people pay them to design home audio systems! After that, we told our general contractor to take them out of the bidding process. These guys also bid on the line-voltage work and in their bid had them running electricity to the deck off the master bedroom. There is no deck off the master bedroom. Sloppy and dumb.
+
+The other bidder was less dumb, but still too expensive. And both wanted to sell us equipment from companies they are dealers for. The total cost of the system, with all the speakers, amps, TVs, etc., was over $80,000. I estimate I can do it all myself, including equipment and wiring, for $30,000. I've been trying to find something in the house that I can do and help out and I found it. It should be fun too.
+
+For whole-house audio, we're going to use traditional receivers and amplifiers with a bunch of Apple TVs + iTunes providing music. This is what we do in our current house and it's amazing. I can control the music throughout the house with my iPhone or iPad, I don't have to manage a duplicate library of music and because all the parts are non-proprietary, it's as inexpensive and as maintainable as you can get. If a part breaks, I can buy a new one from anyone and they're getting cheaper every day. And the design is so simple that if a part breaks when I want to listen to music in a room, I can easily swap a few cables around in the basement to get music in that room. With a proprietary system, if it breaks, I am a slave to the company that makes it and I have to wait for them to ship me an expensive replacement. And they probably require that a "certified installer" install it for me, which costs even more and takes even longer because I have to wait to fit into their Monday-Friday 9-5 schedule.
+
+For video, I'm going to run Cat6 throughout the house and use <a href="http://www.monoprice.com/products/product.asp?c_id=101&amp;cp_id=10105&amp;cs_id=1010504&amp;p_id=6532&amp;seq=1&amp;format=2">HDMI extenders</a> connected via Cat6 to everywhere we want a TV. The HDMI extenders cost $35 each and work great. I bought one and tested it over 150 feet and the video was flawless. One of the sub-contractors proposed a $600 HDMI extender that does the same thing. They don't understand that digital is digital; it either works or it doesn't, quality is the same in the digital world.
+
+All the equipment will be stored in the basement in a cabinet and all the wiring will run to the cabinet. This centralizes all the equipment in a room that won't be heated so the equipment will stay cool, we won't be able to hear them in the house (DirecTV boxes are loud!), and we don't need to find space in each room for all the equipment. I was concerned that running speaker wire that far would be a problem. The longest run of speaker wire through the walls and floors will be about 140 feet. Now that the speaker wire arrived today, I tested this. I connected a speaker to the stereo in our office by 500 feet of (12 gauge) speaker wire and it sounded perfectly fine. 140 feet is easy. For remote control, we'll run IR extenders over Cat6 too. We do this in our current house with <a href="http://www.xantech.com/Infrared/Infrared/DLPCRTRcvrs/DL25/">Xantech products</a> and it works great.
+
+Basically, the entire system is a traditional A/V setup in each room except all the equipment is in the basement and HDMI and IR remote control runs over Cat6 and the speakers are powered by very long speaker wire.
+
+Home theater installers prefer to use systems like Control4 or Savant that cost a fortune and are proprietary -- you have to use their poorly-designed remotes -- and the companies are so young, it's unlikely they'll be in business in 10 years. They tell you that these systems are great because you can route a different video source to every room of the house. What's so hard about that? Years ago that was difficult. But today with HDMI that carries both audio and video, it's easy. We're going to have 2 DirecTV boxes and, through inexpensive HDMI splitters, they'll both be connected to all the A/V receivers so any room can watch either DirecTV. This limits us to 2 different channels on TV throughout the house, but if that's a problem, we can add a 3rd DirecTV. But I doubt that will be a problem because we already watch less and less from DirecTV.
+
+Each receiver will have an $99 Apple TV as a source, so any TV can watch that as well so every TV can watch something different from Apple TV. And in 5 to 10 years, that is all we'll ever need because TV will all be delivered over the internet (some people do that today already). And, using <a href="http://www.apple.com/itunes/airplay/">AirPlay</a>, any iPhone, iPod touch or iPad can stream audio or video to one or more Apple TVs in the house to provide even more access to content. If Apple goes out of business or another company makes a better product, we can easily switch to that. And it'll be even cheaper in the future.
+
+Companies like Control4 and Savant that make proprietary home A/V distribution equipment simply won't be able to compete with inexpensive commodity parts. And I'm not about to make the mistake of using a proprietary system. Our current house had a similar system made by Carver. Carver went out of business about 5 years after the house was built, the system started failing when we bought the house and, because the company doesn't exist anymore, it can't be repaired. Worse, the house is littered with ugly control panels that no longer do anything (and they were hard to use). That system must've cost $20,000 or more back in the early 90s. I replaced it all with iTunes (free) + Airport Expresses ($99/ea) and traditional receivers ($150/ea) to power the speakers and the entire thing cost $1000. And it's a better system and far easier to use and is invisible (no wall panels).]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4575</wp:post_id>
+		<wp:post_date>2010-11-10 18:25:40</wp:post_date>
+		<wp:post_date_gmt>2010-11-11 01:25:40</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>low-voltage-wiring</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="capitolhillhouse"><![CDATA[capitolhillhouse]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>1274</wp:comment_id>
+			<wp:comment_author><![CDATA[Dad]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>71.49.119.97</wp:comment_author_IP>
+			<wp:comment_date>2010-11-11 11:43:03</wp:comment_date>
+			<wp:comment_date_gmt>2010-11-11 18:43:03</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[This is well beyond my comprehension level!  I don't even know what Cat6 is??]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1275</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>166.205.142.204</wp:comment_author_IP>
+			<wp:comment_date>2010-11-11 13:04:16</wp:comment_date>
+			<wp:comment_date_gmt>2010-11-11 20:04:16</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[The cable that is plugged into your computer from your modem is Cat5 or maybe even Cat6.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1436</wp:comment_id>
+			<wp:comment_author><![CDATA[troyh]]></wp:comment_author>
+			<wp:comment_author_email>troy.hakala@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyh.wordpress.com/</wp:comment_author_url>
+			<wp:comment_author_IP>24.17.44.181</wp:comment_author_IP>
+			<wp:comment_date>2011-03-16 12:02:27</wp:comment_date>
+			<wp:comment_date_gmt>2011-03-16 20:02:27</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Yes, the CAT6 HDMI baluns/extenders that I bought require 2 CAT6 cables per HDMI connection. But I've since discovered NextGen's combination <a href="http://www.nextgen.us/ProductDetails.asp?ProductCode=1x8HDMICat-6Splitter" rel="nofollow">HDMI splitter and extender</a> that requires only 1 CAT6 cable per HDMI connection. I'm going to try that.
+
+For iTunes audio, I just use an Airport Express or Apple TV per zone. iTunes can stream to multiple rooms simultaneously and the iTunes Remote iPhone/iPad app supports this too. It works great.
+
+For an IR extender, I use Xantech's system and it works great. The only problem I have with these is one of my TVs seems to generate interference (the IR receiver is mounted right on top of the screen) so I can't stand closer than 4 or 5 feet from it to use the remote. If I step back a little, it works fine.
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>1435</wp:comment_parent>
+			<wp:comment_user_id>47796</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1300305747]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1300305747.8955";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:5:"troyh";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1435</wp:comment_id>
+			<wp:comment_author><![CDATA[Frank]]></wp:comment_author>
+			<wp:comment_author_email>chewonki@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>68.38.145.99</wp:comment_author_IP>
+			<wp:comment_date>2011-03-16 11:10:47</wp:comment_date>
+			<wp:comment_date_gmt>2011-03-16 19:10:47</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello-
+
+I stumbled across this post while searching for IR extender over CAT6 solutions. I am intrigued by your setup and would like to do the same thing. Did you run dual cat6 to each zone/tv? How do you manage multiple zones with iTunes audio? Any feedback would be very helpful. Thanks.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1300302648]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1300302648.4776";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1779</wp:comment_id>
+			<wp:comment_author><![CDATA[Mike]]></wp:comment_author>
+			<wp:comment_author_email>myservers2001@yahoo.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>207.10.181.18</wp:comment_author_IP>
+			<wp:comment_date>2012-04-27 12:38:18</wp:comment_date>
+			<wp:comment_date_gmt>2012-04-27 20:38:18</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[This was hilarious. I applaud you my friend. We are wiring an entire facility and the project manager is insisting that an electrician can do the low voltage (cat 6) wiring  for voice and data for $1000 per run. I told the project manager where he could shove his estimate. I can hire almost any telecom or networking company to run cabling below $250 per run. 
+
+They're trying to tell me that this is this going rate for bonafied union labor. Yeah, so the union mobsters can supplement their topless bar in Long Island. 
+
+You are right, it is a total scam in the industry.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1335559099]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1335559100.5959";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>

@@ -1,0 +1,274 @@
+<item>
+		<title>AllResearch is a thief</title>
+		<link>http://troyandgay.com/2004/11/05/allresearch-is-dishonest/</link>
+		<pubDate>Fri, 05 Nov 2004 21:57:42 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2906</guid>
+		<description/>
+		<content:encoded><![CDATA[*Summary:* AllResearch's attitude is that if they tell you what they're going to do with the content they take from you, you won't give it to them, so they have no choice but to lie. This makes sense to them. They can't imagine why anyone would  not want to give them content. I liken it to a bank robber who, when asked why he robs banks, answers incredulously "Well, if I just walked up and asked for money they wouldn't give it to me, would  they?!"
+
+I just discovered that we had a visitor to "our site":http://www.recipezaar.com that viewed 173,025 pages in 3 days. Seemed a bit high. So I looked into it and checked the IP address: 38.144.36.16. A reverse DNS lookup shows that "AllResearch.com":http://allresearch.com owns the IP address.
+
+Normally this isn't a big deal. Googlebot does 10x as much traffic on the site. And there are plenty of other bots from other companies. But AllResearch's bot does something that most bots don't do: it lies. Every request to a web site requires that the bot tell the site what it is, such as Internet Explorer, Netscape, etc. AllResearch's bot says it's IE. In fact, it says it is different versions of IE so as to not arouse suspicion. Sometimes it says it's IE 5 for the Mac (Mozilla/4.0 (compatible; MSIE 5.12; Mac_PowerPC)) and sometimes it says it's IE 6 for Windows (Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)). Why is it easier to go to the trouble to alternate user-agent strings than it is to just provide one honest static string?
+
+It is a violation of our "Terms of Service":http://www.recipezaar.com/about/tos.zsp and they would have known that had they bothered to read it. The damage is that they are effectively blocking legitimate use of the site by real people, they are placing an unnecessary burden on our servers and costing us money in bandwidth. And what are they doing with the data they retrieve? They are reselling it on their WebClipping.com business. This is simply theft. If they want our content, they can do what every other bot we allow does: tell us the truth. The content is free, just be honest about it and everyone's happy.
+
+I called the company to ask them why their bot lies. I talked to one guy who sounded like he's heard this before ("Uhh.. hold on...") and was immediately passed on to someone else. I asked this guy the same question and his answer was that if they are honest about their user-agent string, sites won't serve them content. Shocking! Maybe they don't want you stealing their content! Did he ever think of that? Apparently not, he just answered "You can call it stealing if you want, we consider it a valuable service to our customers". I love how people rationalize their actions when they know they're wrong. And he fully admits that he's taking content to provide it to others.  I wonder if their "customers":http://allresearch.com/clients.html know they are paying for stolen content.
+
+Google does a fine job being honest about their user-agent. If it's good enough for Google, isn't it good enough for AllResearch? It is unless AllResearch doesn't want anyone to know they're crawling sites. Why wouldn't they want anyone to know? Honest people don't need to cover their tracks.
+
+When I insisted that they be  honest in their user-agent string, he answered "Don't you have anything better to do on a Friday afternoon than complain about our bot?". In other words, he wants me to stop complaining and get back to work creating content for AllResearch to steal.
+
+So just like "this person":http://jclark.org/weblog/WebDev/botban1 did when they discovered AllResearch's bot, we now block their IP address. This will work until everyone does this to them and they change their IP address.
+
+Other people who have been annoyed by AllResearch: "Lost in Technophilia":http://www.mundell.org/archives/2004/10/26/bye-bye-newsallresearchcom, "Volker Weber":http://vowe.net/archives/005080.html.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2906</wp:post_id>
+		<wp:post_date>2004-11-05 13:57:42</wp:post_date>
+		<wp:post_date_gmt>2004-11-05 21:57:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>allresearch-is-dishonest</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>354</wp:comment_id>
+			<wp:comment_author><![CDATA[Jason Clark]]></wp:comment_author>
+			<wp:comment_author_email>jason@jclark.org</wp:comment_author_email>
+			<wp:comment_author_url>http://jclark.org/weblog</wp:comment_author_url>
+			<wp:comment_author_IP>68.82.4.60</wp:comment_author_IP>
+			<wp:comment_date>2004-11-08 21:07:42</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-09 05:07:42</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Even though I banned them by IP, they keep hitting me once an hour, on the hour.  Everytime, I give them a 403 Forbidden.  And one hour later, there they are again.  They may be obnoxious but at least they're stupid.  Makes my life easier.  Meanwhile, I'm still keeping an eye on any IP that gets overzealous.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>355</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>67.67.196.85</wp:comment_author_IP>
+			<wp:comment_date>2004-11-12 05:12:43</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-12 13:12:43</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I guess I'm not understanding something. When you say they are stealing content to sell do you mean recipes? If so why and how would they do that? I guess what I'm asking is what is this company trying to do? I understand your problem with bandwidth etc. I just don't understand their idea. I don't know what they think they are gaining besides getting to annoy someone.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>356</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>67.168.5.182</wp:comment_author_IP>
+			<wp:comment_date>2004-11-12 08:55:26</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-12 16:55:26</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[AllResearch takes content from sites (not just recipe sites, but in their words "tens of thousands of sites") who don't want to provide it to them. That's "stealing". Google, Yahoo, MSN, etc. all have bots that take content from sites for their search engines but their bots tell the site that they are Google, Yahoo, MSN, etc. so that content providers can choose whether or not to give it to them. AllResearch's bot lies about who they are (they claim they're Internet Explorer to fool sites into thinking it's a human browsing the site) so that content providers are unable to make that decision. And they are doing that so that they can take content without your knowledge. Taking something against the owner's will and without paying for it is the definition of "stealing".
+
+They then take the content and put it behind their pay-service "wall" where they charge people to look at the content. They have several businesses that sell the content to different markets for different reasons. Taking something  you acquired and charging others for it is the definition of "reselling".
+
+AllResearch plays semantic games with the words "theft" and "reselling", but that doesn't disguise what they are doing. The fact that their bot surreptitiously pulls content from sites makes it clear that they know what they're doing is dishonest. If they themselves believed it was honest, they wouldn't try to cover their tracks.
+
+The claim they simply can't be honest because sites won't serve them content if they are honest. That's the point they fail to grok... the sites should choose who gets their content and if sites don't want AllResearch to have their content, AllResearch should respect their wishes. Otherwise, it's theft.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>357</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>69.149.24.123</wp:comment_author_IP>
+			<wp:comment_date>2004-11-18 15:48:19</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-18 23:48:19</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thank you for explaining, I understand what they are now. They are the high tech version of the person that dresses as a repairman, comes into your home, takes your jewelry and goes and sells it.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>358</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>69.149.24.123</wp:comment_author_IP>
+			<wp:comment_date>2004-11-19 04:56:48</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-19 12:56:48</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I have another question now, when you say,  “They have several businesses that sell the content to different markets for different reasons”, are these businesses owned by them or innocent companies that are unaware that they are purchasing stolen content?
+
+Either way it seems they have a type of laundering scheme for the stolen content so that the end purchaser has no idea that they are purchasing stolen property. Is that a correct assumption?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>359</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>67.168.5.182</wp:comment_author_IP>
+			<wp:comment_date>2004-11-19 08:13:36</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-19 16:13:36</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[As far as I know, there are only two companies: AllResearch and WebClippings.com. WebClippings.com is "an AllResearch Inc company" and as near as I can tell, and given the name, this copies content from web sites and serves up to paying customers.
+
+AllResearch sells the content to different markets. From their web site, these are "compeititive market studies", "TrademarkTracker", "Realtime Newswire Filtering", "Wild Public Opinion Polling", etc. The CEO &amp; founder, Noah Silverman, is very vague on what they do with the content, preferring to insult my technical understanding of how the web works than  explain his business(es). And because their businesses are all fee-based, to truly see what the content they provide would require paying for their services.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>360</wp:comment_id>
+			<wp:comment_author><![CDATA[kevin]]></wp:comment_author>
+			<wp:comment_author_email>kevin@yezbick.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.yezbick.com/kevin</wp:comment_author_url>
+			<wp:comment_author_IP>68.21.46.24</wp:comment_author_IP>
+			<wp:comment_date>2004-12-11 19:24:07</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-12 03:24:07</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I've got three of their IP's blocked and have been fighting the refer war for only a few days now. Sending out plenty of 403s - but not stopping anybody from coming back. I had allresearch outta the way for a while -- but now they've come back with rss.allresearch.com -- and they've made up over 2% of my traffic in December alone - 143 visits. Your IP address matches one of mine -- the other two end in .11 and .17. So -- how do we stop em?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>361</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>67.168.5.182</wp:comment_author_IP>
+			<wp:comment_date>2004-12-11 21:34:51</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-12 05:34:51</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Try calling them and asking them to stop crawling your site. That's what I had to do. The owner of the company was not polite and was condescending, but they did stop.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>362</wp:comment_id>
+			<wp:comment_author><![CDATA[kevin]]></wp:comment_author>
+			<wp:comment_author_email>kevin@yezbick.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.yezbick.com/kevin</wp:comment_author_url>
+			<wp:comment_author_IP>67.38.11.69</wp:comment_author_IP>
+			<wp:comment_date>2004-12-12 07:36:41</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-12 15:36:41</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[yeah -- i just found noah's email and emailed him a note last night -- I'm still waiting to hear back from him. They've crawled through 30 times since...]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>363</wp:comment_id>
+			<wp:comment_author><![CDATA[Larry]]></wp:comment_author>
+			<wp:comment_author_email>L@eSnider.net</wp:comment_author_email>
+			<wp:comment_author_url>http://www.eSnider.net</wp:comment_author_url>
+			<wp:comment_author_IP>65.96.137.1</wp:comment_author_IP>
+			<wp:comment_date>2004-12-14 14:40:26</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-14 22:40:26</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Did you ever hear back from Noah?  I just sent an email to him and support@allresearch.com.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>364</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>67.168.5.182</wp:comment_author_IP>
+			<wp:comment_date>2004-12-14 14:57:21</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-14 22:57:21</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[No, he never replied to me after three mails to support@allresearch.com. I had to call on the phone to get him to stop his bot. The only time he ever replied to me in email was after I replied to his mail demanding that I remove this post.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>365</wp:comment_id>
+			<wp:comment_author><![CDATA[Larry]]></wp:comment_author>
+			<wp:comment_author_email>L@eSnider.net</wp:comment_author_email>
+			<wp:comment_author_url>http://www.eSnider.net</wp:comment_author_url>
+			<wp:comment_author_IP>65.96.137.1</wp:comment_author_IP>
+			<wp:comment_date>2004-12-14 16:10:04</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-15 00:10:04</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I'm starting to chronicle my email exchange with this company at my <a href="http://www.esnider.net/modules.php?name=News&amp;file=article&amp;sid=307" rel="nofollow">website</a>.  I suppose I should expect an email demanding it's removal soon enough.  :-)  In the meantime, I've added a RewriteCond to my .htaccess:
+
+<code>
+RewriteCond %{REMOTE_ADDR} ^38\.144\.36\.
+RewriteRule .* - [F,L]
+</code>
+
+His bot just stops when it gets a 403 trying to access my feed URL and then it comes back in an hour.  That's better than the raping I was getting once an hour!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>366</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>67.168.5.182</wp:comment_author_IP>
+			<wp:comment_date>2004-12-14 16:26:49</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-15 00:26:49</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I see they did to you what Noah repeatedly did to me: tell you that you just don't understand the technology because if you did, you wouldn't complain. Other bots are successful at crawling sites without annoying the site owners but AllResearch is the only one who understands technology. The saving grace is that with management and technical know-how like Noah, they aren't going to be in business long.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>367</wp:comment_id>
+			<wp:comment_author><![CDATA[Mort666]]></wp:comment_author>
+			<wp:comment_author_email>mort666@virus.org</wp:comment_author_email>
+			<wp:comment_author_url>http://www.virus.org</wp:comment_author_url>
+			<wp:comment_author_IP>217.146.109.66</wp:comment_author_IP>
+			<wp:comment_date>2005-01-06 11:36:33</wp:comment_date>
+			<wp:comment_date_gmt>2005-01-06 19:36:33</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Well I see your having the same trouble as I'm having. Well I've put something in place which is similar to what Larry has and it redirects all traffic from their IP addresses to my special 'Bog Off' page <a href="http://www.virus.org/unauthorised.phtml" rel="nofollow">here</a>. It is quite handy because here you've warned them to cease and desist or you'll report them to law enforcement. :)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>368</wp:comment_id>
+			<wp:comment_author><![CDATA[Andy]]></wp:comment_author>
+			<wp:comment_author_email>mail-blog@andymerrett.co.uk</wp:comment_author_email>
+			<wp:comment_author_url>http://andymerrett.co.uk</wp:comment_author_url>
+			<wp:comment_author_IP>212.240.89.182</wp:comment_author_IP>
+			<wp:comment_date>2005-03-04 08:56:51</wp:comment_date>
+			<wp:comment_date_gmt>2005-03-04 16:56:51</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[OK, I have a solution of sorts to referrer spam - I bounce it back to them. I have almost eliminated it, except for one from h*hproftclub who refuses to go away. To be really EVIL, I’ve redirected that spammers output alone to the signup page at www.webclipping.com/signup.html. Probably not entirely ethical but then we’re dealing with two unethical orgs - why not play them off against each other? (Yeah I know, two wrongs…)
+
+It does mean more crap in my log file (the way I have it set up) but it’s fun. Now, my log file sees an attempt to access a page on my site, which is redirected. However, because of the way it is redirected the bot still thinks it is on MY site - so I also get to see the cgi request. For example:
+
+<code>207.248.240.119 - - [04/Mar/2005:06:19:37 -0600] "GET /cgi-bin/signup.cgi?cname=web+poker&amp;caddress=+%3Ch1%3EYou+can+a...</code>
+
+So now webclippings are being auto-spammed by a spammer! We hate them both - now they can hate each other. And I think I am effectively hidden from this loop, thanks to how these redirects work. It just looks like h**hprofit is spamming them direct!
+
+Ha ha ha! Death to the spammer…]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

@@ -1,0 +1,23 @@
+<item>
+		<title>Scumware</title>
+		<link>http://troyandgay.com/2003/05/27/scumware/</link>
+		<pubDate>Wed, 28 May 2003 00:52:00 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2101</guid>
+		<description/>
+		<content:encoded><![CDATA[Did you know there is software that can be installed which completely changes the way another website looks without you realizing it?  <a href="http://www.recipezaar.com/bb/viewtopic.zsp?t=35459">Recipezaar itself has been a victim</a> -- well, technically the users who (often accidentally) install this scumware are really the victims but it is the sites that suffer.  In our case, the <a href="http://www.scumware.com/">scumware</a> changes the code of the Amazon ad on our home page, so that another site instead of us gets the credit for any purchases our users make there.  Not only that but the software immediately redirects the user to Amazon, so we lose them.  There is worse scumware out there as well, which changes links on the page or removes YOUR advertising and places competitors ads right on our site.  This should just be illegal, but we don't have the money to sue these creeps....  Know what is worse?  Because of the way Windows is architected there is no way to know if you have this software installed on your machine because they can hide themselves from the Add/Remove programs control panel -- ARG!!!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2101</wp:post_id>
+		<wp:post_date>2003-05-27 17:52:00</wp:post_date>
+		<wp:post_date_gmt>2003-05-28 00:52:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>scumware</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

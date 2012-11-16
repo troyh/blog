@@ -1,0 +1,29 @@
+<item>
+		<title>New Talk</title>
+		<link>http://troyandgay.com/2002/11/20/new-talk/</link>
+		<pubDate>Wed, 20 Nov 2002 19:22:43 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=1788</guid>
+		<description/>
+		<content:encoded><![CDATA[We put the new Talk up last night. Unfortunately, it went very poorly... intending to just rsync up a single directory, I started by rsync'ing wrong and wiped out the entire site on the live server! So I had to bring the site down completely (I wanted to just bring Talk down during the upgrade) and re-sync everything back up. But because rsync on the server had to build a list of every file in the Apache dir which included almost a million cache files (!), it took years. I finally realized this and stopped it, moved the cache dir out of the way, rsync'd and put the cache back. All in all, the site was down for 1.5 hours; the longest downtime in  history I believe.
+
+But we finally got it back up and everything was good. People really love it and are having fun with all the new emoticons and colors (good thing we removed the font size option!).  The performance is also just fine, which was a concern to me with the more SQL-heavy Talk software.
+
+We then proceeded to drink way too much Maker's Mark in celebration and stayed up til 3am reading the boards, listening to music and dancing. Ugh.
+
+So today we're taking it easy and probably won't work much at all.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1788</wp:post_id>
+		<wp:post_date>2002-11-20 12:22:43</wp:post_date>
+		<wp:post_date_gmt>2002-11-20 19:22:43</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>new-talk</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

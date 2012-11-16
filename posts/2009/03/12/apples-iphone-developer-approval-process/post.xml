@@ -1,0 +1,322 @@
+<item>
+		<title>Apple's iPhone Developer Approval process</title>
+		<link>http://troyandgay.com/2009/03/12/apples-iphone-developer-approval-process/</link>
+		<pubDate>Thu, 12 Mar 2009 20:19:25 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/2009/03/12/apples-iphone-developer-approval-process/</guid>
+		<description/>
+		<content:encoded><![CDATA[I'm building an iPhone app and wanted to put it on my iPhone to try it out on real hardware. I discovered that I can't do this without getting a license from Apple which requires that you log into your Developer account at Apple.com, which I found shocking. You then have to fill out a form and promise to pay $99. Okay, not a big deal and $99 isn't much. But then you have to be approved for the program. I assume that means they reject people. <a href="http://www.tuaw.com/2008/03/14/iphone-developer-rejection-letter-mass-mailing/">They reject people</a> from building apps for their platform?! I've never heard of such a thing!
+
+I can understand their approval process for selling your app on their App Store, but they won't even let me make a crappy app and put it on my own iPhone. And you can't just pay the $99 and get your license immediately. Again, this doesn't mean they have to accept my app on their store and potentially ruin other people's iPhones, this is just so I can put my app _on my own_ iPhone!
+
+It gets worse....
+
+<!--more-->
+
+Then 24 hours later, I got this email from Apple:
+<blockquote>Dear Troy Hakala,
+
+We are currently in the process of reviewing your iPhone Developer Program enrollment information.
+
+Please fax one of the following forms of identity for your business based on your company form. To assist with this process, please ensure your business documents match your Enrollment information. The fax number for submission of this information is 408-974-1053.
+
+PLEASE INCLUDE YOUR MAIN COMPANY CORPORATE TELEPHONE NUMBER WITH YOUR FAXED DOCUMENTS.
+
+Articles of incorporation
+Business license
+Certificate of Formation
+DBA (Doing Business As...)
+Fictitious name statement
+Registration of trademark
+Charter documents
+Partnership papers
+Reseller or vendor license
+When faxing this information to Apple, please refer to your Enrollment ID ************ that was provided to you upon submission.
+
+Thank you for your assistance.
+
+Thank you,
+
+iPhone Developer Program</blockquote>
+What?! They really do look over my application and need to verify that I have a real company. Why? Again, this is just so I can try my own app out on my own phone.  Moreover, I'm planning to give this app away for free. Why do I have to have a corporation to do that? What good is this doing Apple? Who are they protecting themselves from?
+
+What do they think I'm going to do? Build an app and to distribute it outside of the App Store, invite people over to my house so they can put their phone in my cradle and sync the app to it? Or I'd post my license key on a web site along with my source code so that people could download XCode and my source and then build and sync the app to their iPhone? And I'd do this to avoid paying Apple $0 for the App Store fee on my free app?
+
+It's even more crazy given that I can build a Mac OS X app and distribute it myself without Apple's consent and I can charge $1000 for it if I want and Apple gets none of that money. But giving away a free app, or even selling it for $1 on the App Store, and Apple needs a thorough vetting process?!?
+
+To make it even dumber, they require a fax. A fax! In 2009! Apple Computer requires a faxed document in 2009. The Washington State government deals in electronic documents and our lawyers deal in electronic documents. State government and lawyers have embraced PDFs but Apple, one of the biggest supporters of PDFs, isn't quite sure about email and PDFs so they need a 1970s technology to deliver documents. Unbelievable. Now I've gotta go figure out how to fax my documentation to Apple rather than just email the PDFs to them.
+
+Even after I do all this, I still have to wait. I have to wait to be given the chance to pay my $99 and then, apparently, I have to wait for them to issue me a license that I can use to transfer my app to my iPhone. <a href="http://discussions.apple.com/thread.jspa?messageID=8658270">According to some</a>, this can take weeks and even months!
+
+Whomever is in charge of the iPhone Developer Program at Apple should be fired.
+
+Update: I figured there has to be a way to email the documentation to them so I called Apple to ask. Nope. Fax is the only way they will accept documents. I asked if I could FedEx the documentation to them and the person I talked to said no, only fax is acceptable. I asked why and they said that it's because of "legal reasons". In other words, a dumbass lawyer at Apple who doesn't know what a PDF is and hasn't used email in their life said fax is the only acceptable format (to their credit, Apple probably ditched telegrams a few years ago) and nobody at Apple questioned it. I imagine that lawyer then put his spectacles in his pocket and his fedora on his head, put the dust cover back on his typewriter, grabbed his briefcase, hopped into his Model T and drove home.
+
+Update #2: The iPhone Developer Program customer service I talked to earlier called me back. Gotta give them credit for that. And they said that there is a postal address that I can send my documentation to. That makes sense, but I still don't understand why a fax is preferable to email. Faxes are very low quality copies of a document, a PDF or even a scanned document is a much higher-quality version and even more difficult to fake. Apple seems to think that getting into the iPhone Developer Program is such a sacred thing that they need a big vetting process and be legally protected. It's paranoid and downright stupid thinking on Apple's part. They really look like idiots throughout the iPhone Developer Program.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3615</wp:post_id>
+		<wp:post_date>2009-03-12 13:19:25</wp:post_date>
+		<wp:post_date_gmt>2009-03-12 20:19:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>apples-iphone-developer-approval-process</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>983</wp:comment_id>
+			<wp:comment_author><![CDATA[Apple&#8217;s acceptance]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com/blog/2009/03/18/apples-acceptance/</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-03-18 10:00:27</wp:comment_date>
+			<wp:comment_date_gmt>2009-03-18 17:00:27</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] days (five business days) after I applied to be in the iPhone Developer Program, I was accepted. Apple then let me pay them $99 so that I [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>984</wp:comment_id>
+			<wp:comment_author><![CDATA[jason]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>98.113.86.222</wp:comment_author_IP>
+			<wp:comment_date>2009-03-19 12:50:09</wp:comment_date>
+			<wp:comment_date_gmt>2009-03-19 19:50:09</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[yo, just sign up for the personal account.
+simple.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>985</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy Hakala]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-03-19 13:00:16</wp:comment_date>
+			<wp:comment_date_gmt>2009-03-19 20:00:16</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[A personal account just lets you download the SDK and run the app on the software simulator. To allow you to install the app on a real hardware device you have to be accepted, pay $99 and get a certificate.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>986</wp:comment_id>
+			<wp:comment_author><![CDATA[Eyal]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>80.178.10.205</wp:comment_author_IP>
+			<wp:comment_date>2009-03-27 02:00:32</wp:comment_date>
+			<wp:comment_date_gmt>2009-03-27 09:00:32</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[No.
+
+Troy, you're talking about the free account.
+
+The free account allow you to use the simulator.
+
+There is the standard iphone development program for private people (not companies).
+When joining the program you need to state weather you a private person or a company and there's also a notification that if you will choose to be a company you will need to provide all kind of proofs so you are a real company and not a fake.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>987</wp:comment_id>
+			<wp:comment_author><![CDATA[David]]></wp:comment_author>
+			<wp:comment_author_email>d.main@att.net</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.9.148.208</wp:comment_author_IP>
+			<wp:comment_date>2009-03-28 23:03:08</wp:comment_date>
+			<wp:comment_date_gmt>2009-03-29 06:03:08</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[So Troy, were you accepted?  I'm just curious because I too am in limbo.  I applied as far as I could go and thought it would be better to do the company account rather than a personal one.  I've heard nothing since I applied (a week ago now), but noticed tonight when I logged into the iPhone Dev Center a message saying "Company documents needed".  It sounds just like what you experienced, except without any direct notification to me.  No call, no email.  I don't even know who to call or fax!  Could you post (or send) the phone number you called?
+
+Anyway, just thought I'd share my frustration with yours.  Any suggestions you might have would be cool.  Thanks!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>988</wp:comment_id>
+			<wp:comment_author><![CDATA[Chris]]></wp:comment_author>
+			<wp:comment_author_email>chris@maxpowersoft.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.maxpowersoft.com</wp:comment_author_url>
+			<wp:comment_author_IP>71.128.217.58</wp:comment_author_IP>
+			<wp:comment_date>2009-04-28 07:37:53</wp:comment_date>
+			<wp:comment_date_gmt>2009-04-28 14:37:53</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[David,
+Here is the list of phone numbers from Apple:  http://developer.apple.com/contact/phone.html
+
+I had to call in to get the ball moving on this.  I've got one application already written and ready to distribute, but I was stuck in the first limbo.  That is the one where you only have an enrollment ID and nothing else.
+
+The second limbo is where you get the fax number and request for information.  You quickly fax the information in, then you call the following day.  If you don't call, you're going to be sitting longer in that limbo!
+
+Regards,
+Chris]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>989</wp:comment_id>
+			<wp:comment_author><![CDATA[ROFL]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>166.77.6.4</wp:comment_author_IP>
+			<wp:comment_date>2009-05-05 09:27:28</wp:comment_date>
+			<wp:comment_date_gmt>2009-05-05 16:27:28</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Faxes seem outdated, but it's really the statues. The state of California (any many other state &amp; local gov't) accepts faxed documents acceptable as evidence of documents. There's also the pesky issue of wet signatures vs digital signatures. So the faxes capture signatures and the forms. The fax number is probably a fax to PDF service anyway. So, at the end of the day it's a PDF, minus the possible corruption or malicious payload from attachments.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>990</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-05-05 10:12:06</wp:comment_date>
+			<wp:comment_date_gmt>2009-05-05 17:12:06</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[@ROFL: Ok, but I don't have to send a fax to anyone to write software for Linux, Windows or even Mac OS X. And it's not because it's a mobile device, because I haven't had to fax anyone to build an app for the Palm OS or, I assume, Windows Mobile. This seems to be an Apple-created bottleneck and I can't figure out why they would do that.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>991</wp:comment_id>
+			<wp:comment_author><![CDATA[Chris]]></wp:comment_author>
+			<wp:comment_author_email>chris@lightwood.net</wp:comment_author_email>
+			<wp:comment_author_url>http://www.lightwood.net</wp:comment_author_url>
+			<wp:comment_author_IP>68.104.20.127</wp:comment_author_IP>
+			<wp:comment_date>2009-08-01 12:36:15</wp:comment_date>
+			<wp:comment_date_gmt>2009-08-01 19:36:15</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Glad it's not just me who thinks it's crazy having to submit business documentation by fax.  I haven't had to send a fax for at least 5 years.  I ended up signing up for Pamfax and sending it that way (buying the minimum $10 credit to send a 25c fax) and then a few days later all I got from Apple was "reminder to submit your documentation".  Terrific.  Who knows whether it's in a pile waiting to be processed, or if it just never arrived - because they won't confirm receipt of the fax!
+
+I am registering through a UK company and the only documentation they requested is a copy of my certificate of incorporation.  No signature required so I have no idea what the legal issues might be.  The certificate can be downloaded for one pound (about $1.60) from www.companieshouse.gov.uk, and if I had to walk to an office and present them with a hard copy, I would be printing it from this very same PDF that anybody can download.  In fact, even if you go through the process right up to paying for the certificate the free search is enough to prove the company (currently) exists.  The certificate itself is virtually meaningless these days - it shows that a company once existed, but it could have been dissolved or struck off since.  Totally dumb imo...]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1505</wp:comment_id>
+			<wp:comment_author><![CDATA[Amber]]></wp:comment_author>
+			<wp:comment_author_email>onebilliontogo@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://gravatar.com/gigglebox</wp:comment_author_url>
+			<wp:comment_author_IP>173.172.39.83</wp:comment_author_IP>
+			<wp:comment_date>2011-06-09 21:35:20</wp:comment_date>
+			<wp:comment_date_gmt>2011-06-10 05:35:20</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Did you click that you were signing up for a corporate account? If you click that you're signing up for a personal account to develop and distribute apps for free you'll be approved in about 2-4 hours. A corporate account takes way longer.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1307684121]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1307684121.5655";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1518</wp:comment_id>
+			<wp:comment_author><![CDATA[venkat]]></wp:comment_author>
+			<wp:comment_author_email>nishankararamu@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.evolgence.com</wp:comment_author_url>
+			<wp:comment_author_IP>118.102.148.92</wp:comment_author_IP>
+			<wp:comment_date>2011-07-05 22:43:53</wp:comment_date>
+			<wp:comment_date_gmt>2011-07-06 06:43:53</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[but iam from india, for what phone(FAX) number i have to fax .. and please mention what documents i need to be fax... please iam very new all these things]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1309934634]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1309934635.2097";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1637</wp:comment_id>
+			<wp:comment_author><![CDATA[winegoddess]]></wp:comment_author>
+			<wp:comment_author_email>winegoddess@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.3.52.34</wp:comment_author_IP>
+			<wp:comment_date>2011-11-09 05:56:10</wp:comment_date>
+			<wp:comment_date_gmt>2011-11-09 13:56:10</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[sign up for a free fax service....there are plenty on the interwebs]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>6121368</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1320846971]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1320846972.4221";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:11:"winegoddess";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>1638</wp:comment_id>
+			<wp:comment_author><![CDATA[troyh]]></wp:comment_author>
+			<wp:comment_author_email>troy.hakala@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyh.wordpress.com/</wp:comment_author_url>
+			<wp:comment_author_IP/>
+			<wp:comment_date>2011-11-09 07:23:58</wp:comment_date>
+			<wp:comment_date_gmt>2011-11-09 15:23:58</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[There are free fax receiving services. You have to pay to send a fax. But you miss the point: why require a fax at all when we have email and interwebs? 
+
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>1637</wp:comment_parent>
+			<wp:comment_user_id>47796</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1320852239.0821";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:5:"troyh";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1320852238]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>

@@ -1,0 +1,289 @@
+<item>
+		<title>Seattle UPS finished sucking (for me, at least)</title>
+		<link>http://troyandgay.com/2008/12/30/seattle-ups-finished-sucking-for-me-at-least/</link>
+		<pubDate>Wed, 31 Dec 2008 13:37:02 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/2008/12/31/seattle-ups-finished-sucking-for-me-at-least/</guid>
+		<description/>
+		<content:encoded><![CDATA[The last of my packages from Christmas were finally delivered today as well as a few more that I didn't have tracking numbers for that were also delayed for a long time. After "I posted about my problems":http://troyandgay.com/blog/2008/12/29/seattle-ups-sucks/, several people posted their similar stories. "The Kitsap Sun":http://www.kitsapsun.com/news/2008/dec/30/ups-still-working-on-holiday-backlog/, a tiny newspaper (way) outside of Seattle, is the only place I've seen this story covered in the local media.
+
+What is amazing to me about UPS is how poorly they handled this. Lots of packages for Christmas is not new to UPS and neither is weather. As bad as the weather was in Seattle, it wasn't _that_ bad and certainly minor compared to the weather they get in other parts of the country. They obviously don't have a system in place to handle a case like this.
+
+Severe weather can be understood and customers are generally forgiving of unusual circumstances, but only if the company can communicate effectively. UPS can't. Their customer service, in my experience, was dismissive of the problem and was not interested in finding a solution for me and expressed absolutely no interest in improving the company for such situations in the future. As another sign of a company with problems, UPS in California "had to apologize for labeling a customer a terrorist":http://www.turnto23.com/north_river_county/18385526/detail.html because he wore a turban. These problems are caused by poor management -- employees are powerless and uninformed, suggestions for improving the company are clearly not welcome and their is little evidence of pride in being a UPS employee. UPS is unlikely to ever be a great company.
+
+Here's my updated list of deliveries, clearly 2nd Day Air got short shrift:
+
+table(datatable).
+|_. Tracking #         |_. Service      |_. Shipped |_. In Seattle  |_. Delivery Date |_. Idle |
+| "1Z1823390262844260":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z1823390262844260 | 2nd Day Air  | Dec 15  | Dec 18      | Dec 22   | 4 days |
+|{background:#eee}. "1Z1823390264597202":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z1823390264597202 |{background:#eee}. 2nd Day Air  |{background:#eee}. Dec 15  |{background:#eee}. Dec 18      |{background:#eee}. Dec 31 |{background:#eee}. 13 days |
+| "1Z1823390264210655":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z1823390264210655 | 2nd Day Air | Dec 15 | Dec 24 | Dec 31 | 7 days |
+|{background:#eee}. "1Z1823390264673263 ":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z1823390264673263 |{background:#eee}. 2nd Day Air |{background:#eee}. Dec 15 |{background:#eee}. Dec 24 |{background:#eee}. Dec 31 |{background:#eee}. 7 days |
+| "1Z1823390264961657":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z1823390264961657 | 2nd Day Air  | Dec 15  | Dec 19      | Dec 31 | 12 days |
+|{background:#eee}. "1Z23EW070331035404":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z23EW070331035404 |{background:#eee}. Ground |{background:#eee}. Dec 17 |{background:#eee}. Dec 22 |{background:#eee}. Dec 31 |{background:#eee}. 9 days |
+| "1Z8E26Y00357236396":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z8E26Y00357236396 | Ground       | Dec 18  | Dec 20      | Dec 29   | 9 days |
+|{background:#eee}. "1Z226A5R0209946300":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1Z226A5R0209946300 |{background:#eee}. 2nd Day Air  |{background:#eee}. Dec 19  |{background:#eee}. Dec 22      |{background:#eee}. Dec 31 |{background:#eee}. 9 days |
+| "1ZA7815W0349141254":http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;track.x=0&amp;track.y=0&amp;InquiryNumber1=1ZA7815W0349141254 | Ground       | Dec 19  | Dec 22      | Dec 24   | 2 days |
+
+Ground packages were idle in Seattle for an average of 6.67 days, 2nd Day Air packages were idle for 8.67 days, or 30% longer even though it cost twice as much to send them 2nd Day Air. If/when I ever ship anything UPS, I'll never choose anything but UPS Ground -- it's cheaper and higher-priority.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3574</wp:post_id>
+		<wp:post_date>2008-12-30 23:37:02</wp:post_date>
+		<wp:post_date_gmt>2008-12-31 13:37:02</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>seattle-ups-finished-sucking-for-me-at-least</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>824</wp:comment_id>
+			<wp:comment_author><![CDATA[Seattle UPS sucks]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com/blog/2008/12/29/seattle-ups-sucks/</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2008-12-31 13:43:09</wp:comment_date>
+			<wp:comment_date_gmt>2008-12-31 20:43:09</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] fortunately, all my packages made it to me today. To all those who commented, I hope yours get t you today [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>825</wp:comment_id>
+			<wp:comment_author><![CDATA[Chris]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>131.107.0.75</wp:comment_author_IP>
+			<wp:comment_date>2009-01-02 16:49:42</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-02 23:49:42</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[(oops new post, I saw it now)
+
+I’ve got some packages today (2nd) but amazingly the one that should be here on the 18th (2nd day air) has not arrived yet. Should I keep my hopes up that they’ll send another truck? I guess not.
+
+BTW packages were really messy, I’m glad everything arrived ok.
+
+Here’s are the status of my remaining packages:
+
+This was supposed to be here on the 18th 2nd day air:
+US 01/02/2009 12:42 P.M. THE PACKAGE WAS LEFT IN A UPS FACILITY / FORWARDED TO THE FACILITY IN THE DESTINATION CITY
+
+The other one is out for delivery since the 24th:
+12/24/2008 2:10 A.M. OUT FOR DELIVERY
+12/24/2008 1:33 A.M. DESTINATION SCAN
+
+If I don’t get them today I’ll ask for another shipment through FEDEX next day. I'm done contacting UPS.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>826</wp:comment_id>
+			<wp:comment_author><![CDATA[Keith on Vashon]]></wp:comment_author>
+			<wp:comment_author_email>keith@ellisport.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>198.49.222.20</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 07:16:26</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 14:16:26</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You've done well! I have one package (a $200 Christmas gift for my son) that arrived in Seattle and had been "Out for delivery" since the 19th. On December 22nd, after numerous phone calls, the service center in Florida rerouted the package for me to pick up at the Seattle "Customer Service Center", I went down there and was met by a stone wall.  They told me, "Florida doesn't know what they're doing."
+
+On Wednesday morning the 31st, the package status changed, "Package available for pick-up at Customer Service Center today."  So I took the ferry across arrived at the Seattle Customer Service Center to find a sign that reads in part, "...Closed on December 31st and January 1st for the New Years Holiday."
+
+AAAARRRRRGGGHHHHHHH!!!!!!!
+
+By the way, they have a sign on the side of the Seattle Distribution center building that reads, "One person can make a difference."
+
+I'm still looking for that person.
+
+Keith]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>827</wp:comment_id>
+			<wp:comment_author><![CDATA[BobPerez]]></wp:comment_author>
+			<wp:comment_author_email>BobPerez.Home@GMail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>71.112.40.228</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 09:57:35</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 16:57:35</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Glad you posted this, as you probably know by now, it got picked up in this morning's P.I. After reading the story, I thought I'd chime in with my experience.
+
+Blaming it entirely on the roads and inclement weather is not going to cut it for the unfortunate UPS, it's really a matter of simple incompetence.
+
+My daughter's Christmas present was shipped UPS overnight and arrived in Redmond (near my home in Sammamish) on Friday Dec 19. When I saw the tracking report that it had arrived, I figured "Ok, it should get here by Monday 12-22." When that day came and went, I called UPS and asked if I could just drive over and pick it up myself since it was here in town. No dice, they would not let me come to the warehouse. But, UPS assured me, "Your package will arrive by 7pm tonight, no matter what". So I gave them the benefit of the doubt and waited. No package that night.
+
+No package on Tuesday, either. We went out that evening(the roads way up here in Sammamish were drivable) and as we pulled away a UPS truck pulled up. We rejoiced. Unfortunately, no package for us. The driver was very cordial but told me that the problem wasn't unpassable roads for deliveries, it was "too many unscanned packages in the wareshouse". That's why I couldn't go down and pick it up myself. So I called UPS and told them what I'd heard, that UPS drivers were delivering in my neighborhood and I wanted to know when I could get my package. I was promised on the phone that the warehouse would call me by the end of the day to give me an update. No call ever came. No delivery.
+
+Christmas came and went and my daughter did NOT get her present. The package finally arrived on New Year's Eve, just hours after she left on a plane.
+
+My guess is that UPS made a decision to reduce staff and were caught short by more packages than they could handle. This isn't about bad weather, it's about bad management and awful customer service. And it's about a company that made a decision to benefit itself at the expense of its customers, knowing that they could rely on the bad weather exception to get bailed out of their money back guarantees.
+
+No more UPS for us. Thanks for providing a forum for me to vent, and good luck to everyone still waiting for their packages.
+
+Bob &amp; Dorothy Perez
+Sammamish]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>828</wp:comment_id>
+			<wp:comment_author><![CDATA[Teresa]]></wp:comment_author>
+			<wp:comment_author_email>TeresaIndy2@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.16.67.214</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 10:16:34</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 17:16:34</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[We were victims of the UPS fiasco, however, FedEx was as bad in my experience.  A package shipped to me NEXT DAY AIR on December 22nd, arrived on January 2nd.
+
+I consider accepting money for next day air packages when they know they can't deliver them as FRAUD.  I hope lawyers are listening and readying a class action lawsuit.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>829</wp:comment_id>
+			<wp:comment_author><![CDATA[Joe T]]></wp:comment_author>
+			<wp:comment_author_email>metroalien@hotmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>76.121.211.0</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 10:21:54</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 17:21:54</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nice to finally see coverage of this issue (Seattle PI online, with mention of this blog).
+
+UPS has been sucking for me, too. Several aspects to this issue irritate. A couple come to mind:
+- Amazon uses UPS (almost always; depends on factors like 'whiteglove'). So you have no choice there. I would pay extra money in my Prime membership to default to almost anyone other than UPS.
+- UPS is not only sucking on the ridiculous delivery delays, but they don't even update their tracking information.
+
+I have two packages for which I paid for overnight delivery. I did not expect them to arrive overnight, but I hoped it would help to prioritize them a little bit higher in their list. These still have not arrived. I think I ordered them on 12/18. No updates in status on the tracking information. Last entry was 12/19 indicating "arrival scan", in Redmond. Stuck ever since.
+
+It's not just snow that renders UPS worse than a pack mule. It's simple things like an address. My address is in 98087. It's been several years since 98087 split off from 98037. I think 4 or 5 years now. Yet, UPS does not yet acknowledge this zip code. It's ironic that the UPS corporate (the 1-800 people) are aware of 98087, but the hub in Redmond is not. On top of that, my cul-de-sac was a private drive until just over 2 years ago. It was redeveloped and a dozen houses built. The county gave our 12 year old house a new address as part of that project. Now UPS literally gives up on deliveries to us more than half the time. No sticker on the door, just a tracking update that says "not deliverable". So, I have to call the 1-800 number and beg for them to ask someone in Redmond to call me. By coincidence I learned that the usual driver in our area used to date our neighbor. So, often the only way I can actually receive a package from UPS is to say "please just tell Greg to go to Kathy's house and I'll be across the street waving him down". Honest to God... that is a true story.
+
+This year I had planned to do all of my shopping online with Amazon.com. I used to work there and know that the Prime membership is a great help. Recently my wife was diagnosed with MS and so it's very difficult for me to get out of the house for shopping. But, early in December I realized that it was not likely to work out well and so I had to figure out how to deal with Christmas shopping and also care for my wife. So, I only have a couple of packages that I'm waiting on. I just can't believe that they are still not delivered. Overnight shipping... now something like 1500% late!
+
+Good luck to everyone else still dealing with sUckPS.
+-j
+Lynnwood]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>830</wp:comment_id>
+			<wp:comment_author><![CDATA[Joe T]]></wp:comment_author>
+			<wp:comment_author_email>metroalien@hotmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>76.121.211.0</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 10:31:32</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 17:31:32</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[One additional comment.
+
+Normally the UPS delivery guy will hand you the package. This gives you a chance to refuse the package and it'll be returned to the shipper. In the case of Amazon.com this is an automatic RMA and you get your money back. It's a way of saying "too late now... what's the point... I change my mind". It's a way of protesting with your wallet. UPS does NOT care about the package recipients and so they feel zero pressure from us. But, maybe they would care about feeling pressure from shippers like Amazon.
+
+However, you can't do that this time around. Because they are so backlogged they are quick to drop off packages. They'll drop it on your steps, ring the bell, and run off before you get to the door.
+
+With one of my earlier packages that did actually get delivered this was very disappointing. I didn't want to return this one, but I didn't want this particular (very expensive) item sitting on the door step and unsigned for...
+-j]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>831</wp:comment_id>
+			<wp:comment_author><![CDATA[Joe T]]></wp:comment_author>
+			<wp:comment_author_email>metroalien@hotmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>76.121.211.0</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 10:44:45</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 17:44:45</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Haha. I mentioned in an earlier post that UPS has not updated tracking info for my packages since 12/19. I check this every other day or so and it's always been the case.
+
+Just now I checked and find this:
+ REDMOND, WA, US
+ 12/26/2008
+ 8:03 P.M.
+ EMERGENCY CONDITIONS BEYOND UPS' CONTROL
+
+
+So, they are retroactively posting tracking details. How convenient for them that their system allows them to go back in time and rewrite history. I'm sure this is important for them in circumventing refunds. As long as the tracking shows "Emergency conditions", or some comment about the weather or whatever, then they can say "sorry, no refund". So, they probably have some people sifting through the logs and adding this entry wherever they "forgot" to do so earlier...
+
+-j]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>832</wp:comment_id>
+			<wp:comment_author><![CDATA[UPS still sucking]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url>http://troyandgay.com/blog/2009/01/03/ups-still-sucking/</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 11:06:57</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-03 18:06:57</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[...] 2nd Day Air packages are not delivered any faster than Ground deliveries. In my case, 2nd Day Air seemed to be lower-priority than Ground! I&#8217;d love to hear UPS&#8217; explanation for [...]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>833</wp:comment_id>
+			<wp:comment_author><![CDATA[Justin]]></wp:comment_author>
+			<wp:comment_author_email>justinbolster@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.16.135.184</wp:comment_author_IP>
+			<wp:comment_date>2009-01-03 20:21:12</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-04 03:21:12</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[If you think that is bad I have a 2nd day air package by UPS shipped on the 17th, was in Redmond on the 19th and still hasn't been delivered.  I have called on 4 days and I have received 4 different stories about what is going on.  I have given up on UPS and will never use them again.
+
+One of these days it might be delivered I have called the shipper and they refunded my $10 shipping and handling fee as well as called UPS who promptly called me and apologized for the circumstance.  Apparently the manager went up personally and identified the package to ensure it's delivery currently set for Monday the 5th.  So that will only be a 19 day delivery for 2nd day air.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>834</wp:comment_id>
+			<wp:comment_author><![CDATA[Erin]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>71.112.3.94</wp:comment_author_IP>
+			<wp:comment_date>2009-01-04 20:15:07</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-05 03:15:07</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[We have a package that shipped on December 12th and it still has not arrived to us.  It has been scheduled for delivery on many different days now, but has yet to arrive.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>835</wp:comment_id>
+			<wp:comment_author><![CDATA[Erin]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>71.112.3.94</wp:comment_author_IP>
+			<wp:comment_date>2009-01-04 20:23:50</wp:comment_date>
+			<wp:comment_date_gmt>2009-01-05 03:23:50</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Oh and I have another package that was shipped via guaranteed overnight delivery on the 21st.  It has not made it yet.  Then on December 30th I contacted the company and they sent another package to me to replace the first one, again shipping it via OVERNIGHT delivery.  This was on the 30th of december after all the snow mess.  Guess what?  Its still not here either.
+So, not only are the Christmas packages backed up, any package shipped after Christmas is still getting completely backed up on the mess too. Even though it was shipped via overnight delivery.
+I will never use UPS again.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

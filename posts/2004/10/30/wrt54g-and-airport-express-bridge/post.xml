@@ -1,0 +1,165 @@
+<item>
+		<title>WRT54G and Airport Express bridge</title>
+		<link>http://troyandgay.com/2004/10/30/wrt54g-and-airport-express-bridge/</link>
+		<pubDate>Sat, 30 Oct 2004 22:16:02 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2888</guid>
+		<description/>
+		<content:encoded><![CDATA[Our home office is being remodeled this week, so we moved our office temporarily to a location without network access. Rather than run a long ethernet cable across the house, I figured I could use our "Airport Express":http://apple.com/airportexpress to make a "bridge" to the wireless access point (a Linksys WRT54G) to network all our WiFi-incapable office computers. It turns out I can, but it took me a few hours to get it working. "This blog":http://weblogs.java.net/blog/inder/archive/2004/10/using_airport_e_1.html was very helpful, but it left out one important point: you have to tell the WRT54G the MAC address of the Airport Express so that the Airport Express can connect to it. Not knowing anything about WDS, I fiddled enough with it to get it working.
+
+To do it, you go to the Wireless &gt; WDS  page (OK the always-present unnecessary warning about WDS and AP mode), set the dropdown to "LAN" and enter the Airport Express' MAC address in the boxes (it's printed on the underside of the Airport Express). Do that, and the light should turn green and you're connected wirelessly.
+
+Then I just plugged an ethernet cable into the Airport Express' ethernet port and my WiFi-less desktop is networked again. The Airport Express is very handy. And to think that this isn't one of the Airport Express' selling points.
+
+And, as a plus, it forced me to finally install the Sveasoft open source firmware on the WRT54G, which gives me lots of cool toys on the WRT54G. The WRT54G is an amazing device. Its stock self alone is wonderful: a WiFi access point, router and 4-port switch for $70 is great. But with "Sveasoft's firmware":http://www.linksysinfo.org/modules.php?name=Downloads&amp;d_op=viewdownload&amp;cid=8 for it, I can now SSH to it and treat it like a regular linux box, syslog its log to one of our linux servers, telnet to it, update its time against an NTP server, throttle its bandwidth to provide better quality of service for specific services, administer it remotely over HTTPS, run crond, run a tftp server and more. But best of all, I can make it a VPN server. All this for $70! A commercial product would cost hundreds or thousands. This is the power of commodity hardware and a commodity OS. :)]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2888</wp:post_id>
+		<wp:post_date>2004-10-30 15:16:02</wp:post_date>
+		<wp:post_date_gmt>2004-10-30 22:16:02</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>wrt54g-and-airport-express-bridge</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>336</wp:comment_id>
+			<wp:comment_author><![CDATA[Stefan Papas]]></wp:comment_author>
+			<wp:comment_author_email>stefan_papas@mac.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>210.8.61.253</wp:comment_author_IP>
+			<wp:comment_date>2004-11-19 15:49:04</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-19 23:49:04</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thanks for the heads up.
+
+Unfortunately i found both articles to be rather lacking in finer details. It would be greatly appreciated if a more in depth article was written, to explain step by step the configuration of the WRT54G]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>337</wp:comment_id>
+			<wp:comment_author><![CDATA[Mark Christiansen]]></wp:comment_author>
+			<wp:comment_author_email>xmark@sbcglobal.net</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>66.124.232.85</wp:comment_author_IP>
+			<wp:comment_date>2004-11-23 09:24:16</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-23 17:24:16</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Agreed - I just got mine configured after spending 2 hours last night and another hour this morning and I feel like I won the freaking lottery.
+
+There is an error on Inder's blog - you don't enter the IP of the host, you enter its MAC address (and you can find it by browsing).
+
+The other key missing piece of information for me was to actually get the MAC address physically off the outside of the Airport Express, where it is nearly impossible to read with the naked eye (tiny white letters on a medium gray). As this page tells you, you then enter that into the WDS log on the Linksys as LAN entries - in fact, the Airport Express has two numbers that look like MAC addresses, so I entered both.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>338</wp:comment_id>
+			<wp:comment_author><![CDATA[Mike aka Cooler]]></wp:comment_author>
+			<wp:comment_author_email/>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>208.23.177.70</wp:comment_author_IP>
+			<wp:comment_date>2004-11-29 15:47:23</wp:comment_date>
+			<wp:comment_date_gmt>2004-11-29 23:47:23</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hey fellas I just did all this last night and it took MAYBE 30 mins.  Ok after you download the WRT54G Sveasoft firmware (you need it) enable the WDS and put in the mac address of the Airport Express, also take note of the channel the Linksys is broadcasting on.  Now go to the airport admin utility.  Create a NEW wireless network and name it whatever.  Under the INTERNET TAB put the Linksys mac address in, check "Also allow wireless client computers", configure using DCHP.  Under NETWORK tab everything should be UNselected (greyed out), last tab you need is WDS...here you select "Enable this base station as WDS remote base station", check "Allow wireless clients on this base station", and last put the Linksys mac address in the "Main Airport ID".  Update and it should work.  This is what I did and that is what all my settings are under my Home profile.  All I can say is this thing is WORTH the 130 I paid for it and I am thinking of another one to LEAVE at home.  SWEEEEET!  good luck fellas!]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>339</wp:comment_id>
+			<wp:comment_author><![CDATA[David]]></wp:comment_author>
+			<wp:comment_author_email>free@owenlife.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>68.13.220.129</wp:comment_author_IP>
+			<wp:comment_date>2004-12-16 20:21:31</wp:comment_date>
+			<wp:comment_date_gmt>2004-12-17 04:21:31</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am so close to get that green light I could cry-If anybody could help with the airport "bridge" I would be very grateful.  I have the firmware and what I think is all the right settings but I am a novice and am only going by this site, and its links to other blogs for help-Thanks]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>340</wp:comment_id>
+			<wp:comment_author><![CDATA[Stephen]]></wp:comment_author>
+			<wp:comment_author_email>highwateractor@hotmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>65.4.24.181</wp:comment_author_IP>
+			<wp:comment_date>2005-01-15 09:50:20</wp:comment_date>
+			<wp:comment_date_gmt>2005-01-15 17:50:20</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Ok, I must be a real idiot compared to everyone else here, because I can't even get the firmware open.  I get a download entitled Firmware_Satori-4_0GS.bin and I can NOT figure out how to open it!  How does it work?  Do I need to do it on Windows?  I have a mac.  Can someone PLEASE help me?  Thanks]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>341</wp:comment_id>
+			<wp:comment_author><![CDATA[Brian]]></wp:comment_author>
+			<wp:comment_author_email>briandixon@comcast.net</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>24.158.154.35</wp:comment_author_IP>
+			<wp:comment_date>2005-03-20 13:51:47</wp:comment_date>
+			<wp:comment_date_gmt>2005-03-20 21:51:47</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Stephen the .bin file is what you upload to the Linksys router. You do not open that file.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>342</wp:comment_id>
+			<wp:comment_author><![CDATA[Robbie]]></wp:comment_author>
+			<wp:comment_author_email>chiller1699@yahoo.com</wp:comment_author_email>
+			<wp:comment_author_url>http://robbie4prez.blogspot.com</wp:comment_author_url>
+			<wp:comment_author_IP>12.202.20.193</wp:comment_author_IP>
+			<wp:comment_date>2005-05-20 19:08:32</wp:comment_date>
+			<wp:comment_date_gmt>2005-05-21 03:08:32</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I haven't started to set this up yet b/c I have a couple questions.
+
+I have a WRT54G router but I have version 3 (which Sveasoft Satori apparently does not support).  Is there firmwear that I can use that does support the v.3?
+
+I was not really wanting to extend the wireless network as much as i was wanting to bridge to a wired network.  I have a ReplayTV in the living room that connects to the internet via ethernet.  My Airport Express happens to be next to it.  If I set this bridge up, will the ethernet port function so that the ReplayTV can connect to the internet.  I want to avoid buying an ethernet-to-wireless connector.  I may end up having to put a new hole in the wall, there goes my apartment security deposit ;-)]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>343</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email>23charles@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url>http://www.nettek.ch</wp:comment_author_url>
+			<wp:comment_author_IP>83.76.89.22</wp:comment_author_IP>
+			<wp:comment_date>2010-03-06 06:13:52</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-06 13:13:52</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Does my mac adresse change if I upgrade my computer with some other hardware? For example change the graphic card?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>344</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2010-03-06 08:03:15</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-06 15:03:15</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[No.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>343</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

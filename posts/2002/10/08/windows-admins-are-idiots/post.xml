@@ -1,0 +1,23 @@
+<item>
+		<title>Windows admins are idiots</title>
+		<link>http://troyandgay.com/2002/10/08/windows-admins-are-idiots/</link>
+		<pubDate>Tue, 08 Oct 2002 16:10:18 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=1676</guid>
+		<description/>
+		<content:encoded><![CDATA[Obviously, Linux TCO is lower than Windows TCO (and ridiculously lower than Solaris TCO), at <a href="http://linuxtoday.com/news_story.php3?ltsn=2002-10-08-019-26-NW-BZ-MR">40% of the cost</a>, but the interesting thing is that Windows admins can't run from machine to machine pointing &amp; clicking as fast as Unix admins can ssh around the network: <i>The Windows technicians, however, only managed an average of 10 machines each, while Linux or Solaris admins can generally handle several times that.</i>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1676</wp:post_id>
+		<wp:post_date>2002-10-08 09:10:18</wp:post_date>
+		<wp:post_date_gmt>2002-10-08 16:10:18</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>windows-admins-are-idiots</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>

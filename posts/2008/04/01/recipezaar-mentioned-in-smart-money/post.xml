@@ -1,0 +1,143 @@
+<item>
+		<title>Recipezaar mentioned in Smart Money</title>
+		<link>http://troyandgay.com/2008/04/01/recipezaar-mentioned-in-smart-money/</link>
+		<pubDate>Tue, 01 Apr 2008 21:15:17 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/blog/2008/04/01/recipezaar-mentioned-in-smart-money/</guid>
+		<description/>
+		<content:encoded><![CDATA[_Smart Money_ magazine has an article called "10 Things Celebrity Chefs Won't Tell You":http://www.smartmoney.com/10things/index.cfm?story=april2008-celebrity-chefs and mentions Recipezaar:
+
+bq. Indeed, free recipe-sharing sites like Recipezaar.com, which offers 271,000 recipes ... also threaten to make your favorite chef's cookbook virtually obsolete.
+
+I wonder if they realize that Scripps, aka The Food Network with all their celebrity chefs, owns Recipezaar. :)  And their count is off, Recipezaar now has "286,000":http://www.recipezaar.com/recipes/ recipes.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3311</wp:post_id>
+		<wp:post_date>2008-04-01 14:15:17</wp:post_date>
+		<wp:post_date_gmt>2008-04-01 21:15:17</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>recipezaar-mentioned-in-smart-money</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>606</wp:comment_id>
+			<wp:comment_author><![CDATA[chris]]></wp:comment_author>
+			<wp:comment_author_email>findchris@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>72.34.20.42</wp:comment_author_IP>
+			<wp:comment_date>2010-03-10 20:56:09</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 03:56:09</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Any plans to contribute your recipe parsing engine to the open source community?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>607</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2010-03-10 21:01:53</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 04:01:53</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[No, I don't own it anymore since we sold the company. It amazes me that no one has even tried to build one in the 10 years since I wrote it. It isn't that hard to do.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>606</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>608</wp:comment_id>
+			<wp:comment_author><![CDATA[chris]]></wp:comment_author>
+			<wp:comment_author_email>findchris@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>72.34.20.42</wp:comment_author_IP>
+			<wp:comment_date>2010-03-11 12:39:40</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 19:39:40</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thanks for the reply.
+
+I'd love to have a good, but not sure where to start.  My naive approach would be to either:
+(1)  Write a natural language parser.
+(2)  Write a parser for each recipe site and it's recipe markup conventions.
+
+Simple regex matching might handle a fair number of cases, but that doesn't seem wise or flexible.
+
+Cheers.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>609</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2010-03-11 13:01:08</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 20:01:08</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I don't advocate screen-scraping other recipe web sites. Not only is it illegal, it's not a nice thing to do.
+
+Recipezaar's parser was built with lex &amp; yacc and had quite a bit of fuzzy logic that was trained on thousands of recipes. It was very flexible in what it could read because people typed recipes in a wide variety of styles. It wasn't exactly a natural language parser but it was/is pretty close.
+
+But if I were to do it all over again, I'd require a more strict format and I'd parse each ingredient at a time rather than the entire recipe's ingredients in one big text field. I'd do it as top-down parser with simple regexes to get the quantity and measurement, assume everything after a comma are notes (sliced, peeled, grated, etc.) and the rest is the food. Then I'd give the user a chance to correct anything in a wiki-style page with lots of Ajax to help make it easy on the user.
+
+If you want to do nutritional math, that's another story. You'll need a big database of foods (USDA is a good start) and have a big map from what people type to the actual foods. This is what you'll need to constantly update.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>610</wp:comment_id>
+			<wp:comment_author><![CDATA[chris]]></wp:comment_author>
+			<wp:comment_author_email>findchris@gmail.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>72.34.20.42</wp:comment_author_IP>
+			<wp:comment_date>2010-03-11 13:20:07</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 20:20:07</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I wasn't advocating crawling of other sites; rather, if a user has posted a recipe (say, on their blog), it would be nice if that user wanted to import that recipe to another recipe site by just entering the recipe URL.  Weird case, but that's what I had in mind.
+
+How did you "train" your parser?  Bayesian filtering?]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>611</wp:comment_id>
+			<wp:comment_author><![CDATA[Troy]]></wp:comment_author>
+			<wp:comment_author_email>dottroy@mac.com</wp:comment_author_email>
+			<wp:comment_author_url>http://troyandgay.com</wp:comment_author_url>
+			<wp:comment_author_IP>192.168.0.1</wp:comment_author_IP>
+			<wp:comment_date>2010-03-11 13:24:18</wp:comment_date>
+			<wp:comment_date_gmt>2010-03-11 20:24:18</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I'd suggest you encourage them to go the other route: post it on your site and you could push the recipe to their blog or to another site.
+
+It was trained by a human. A human always double-checked every recipe and any corrections that had to be made went into the system so that correction didn't have to be made again. After a couple hundred thousand recipes, each recipe required very little human-checking.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>612</wp:comment_id>
+			<wp:comment_author><![CDATA[Christine]]></wp:comment_author>
+			<wp:comment_author_email>yzsvst@yahoo.com</wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP>129.188.33.25</wp:comment_author_IP>
+			<wp:comment_date>2010-07-14 12:31:37</wp:comment_date>
+			<wp:comment_date_gmt>2010-07-14 19:31:37</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It's only now after reading your blog that I find out why Recipezaar went from my favorite food site a few years ago to a frustrating user's experience over the past 12 months or so to oblivion (at least for me) at it's conversion to FoodTV's site (ugh).  I'm sorry I did not write sooner - I dearly loved Recipezaar - can't tell you how many people I referred there.  What a mess it is now.  And how much I will miss my daily visit to Recipezaar.  It's off my "Favorites" list now - I feel like I've lost a good friend.  Sorry for the incoherent babble - hard to type between tears...]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type/>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>

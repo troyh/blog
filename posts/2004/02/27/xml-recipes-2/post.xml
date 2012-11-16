@@ -1,0 +1,23 @@
+<item>
+		<title>XML recipes</title>
+		<link>http://troyandgay.com/2004/02/27/xml-recipes-2/</link>
+		<pubDate>Fri, 27 Feb 2004 18:09:56 +0000</pubDate>
+		<dc:creator>troyh</dc:creator>
+		<guid isPermaLink="false">http://troyandgay.com/?p=2582</guid>
+		<description/>
+		<content:encoded><![CDATA[I'm not sure if <a href="http://recipezaar.com">Recipezaar</a> is the <a href="http://www.troyandgay.com/archives/2004/02/001919.php#001919">only recipe site to support RSS</a>, but it's definitely the only recipe site that also supports XML recipes (in <a href="http://www.formatdata.com/recipeml">RecipeML</a> format and <a href="http://www.kalorio.de/cml/cookml.html">CookML</a> format) and <a href="http://reciperpc.sf.net">RecipeRPC</a>. FWIW, I don't think there is another recipe site that publishes 100 recipes a day that supports RSS.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2582</wp:post_id>
+		<wp:post_date>2004-02-27 11:09:56</wp:post_date>
+		<wp:post_date_gmt>2004-02-27 18:09:56</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>xml-recipes-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
